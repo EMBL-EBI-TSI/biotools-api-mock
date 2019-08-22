@@ -1,0 +1,1594 @@
+{
+	"count": 32,
+	"previous": null,
+	"list": [{
+	"collectionID": [
+		"BioExcel"
+	],
+	"accessibility": [],
+	"topic": [],
+	"owner": "famaladoss@ebi.ac.uk",
+	"cost": null,
+	"relation": [],
+	"download": [{
+		"url": "https://github.com/EMBL-EBI-TSI/cpa-instance",
+		"note": "BioExcel_ECP_Application",
+		"version": null,
+		"type": "VM image"
+	}],
+	"validated": 1,
+	"publication": [{
+		"doi": "",
+		"version": null,
+		"pmid": "123444",
+		"type": "Primary",
+		"pmcid": "23333",
+		"metadata": null
+	}],
+	"homepage_status": 0,
+	"credit": [{
+			"typeRole": [
+				"Developer"
+			],
+			"name": "Felix Xavier Amaladoss",
+			"url": null,
+			"note": null,
+			"orcidid": "",
+			"typeEntity": "Person",
+			"email": "famaladoss@ebi.ac.uk"
+		}
+	],
+	"biotoolsCURIE": "",
+	"elixirPlatform": [],
+	"elixirNode": [],
+	"version": [
+		"1"
+	],
+	"elixir_badge": 0,
+	"homepage": "https://github.com/EMBL-EBI-TSI/cpa-instance",
+	"function": [],
+	"lastUpdate": "2019-08-15T17:02:14Z",
+	"otherID": [{"teamName": "team-football","config":"openstack config"}],
+	"description": "A generic server Portal app deployable in the Cloud.",
+	"toolType": [
+		"Workbench"
+	],
+	"editPermission": {
+		"type": "group",
+		"authors": []
+	},
+	"language": [
+		"PHP"
+	],
+	"link": [],
+	"biotoolsID": "ebi:generic_server_instance",
+	"additionDate": "2019-08-15T09:00:15Z",
+	"name": "Generic server instance",
+	"license": null,
+	"documentation": [],
+	"maturity": "Mature",
+	"operatingSystem": [
+		"Linux"
+	]
+},{
+	"collectionID": [
+		"BioExcel"
+	],
+	"accessibility": [],
+	"topic": [],
+	"owner": "famaladoss@ebi.ac.uk",
+	"cost": null,
+	"relation": [],
+	"download": [{
+		"url": "https://github.com/EMBL-EBI-TSI/cpa-redis",
+		"note": "BioExcel_ECP_Application",
+		"version": null,
+		"type": "VM image"
+	}],
+	"validated": 1,
+	"publication": [{
+		"doi": "",
+		"version": null,
+		"pmid": "123444",
+		"type": "Primary",
+		"pmcid": "23333",
+		"metadata": null
+	}],
+	"homepage_status": 0,
+	"credit": [{
+			"typeRole": [
+				"Developer"
+			],
+			"name": "Felix Xavier Amaladoss",
+			"url": null,
+			"note": null,
+			"orcidid": "",
+			"typeEntity": "Person",
+			"email": "famaladoss@ebi.ac.uk"
+		}
+	],
+	"biotoolsCURIE": "",
+	"elixirPlatform": [],
+	"elixirNode": [],
+	"version": [
+		"1"
+	],
+	"elixir_badge": 0,
+	"homepage": "https://github.com/EMBL-EBI-TSI/cpa-redis",
+	"function": [],
+	"lastUpdate": "2019-08-21T17:02:14Z",
+	"otherID": [{"teamName": "felix-test","config":"ostack config"}],
+	"description": "Reddis server in the Cloud.",
+	"toolType": [
+		"Workbench"
+	],
+	"editPermission": {
+		"type": "group",
+		"authors": []
+	},
+	"language": [
+		"PHP"
+	],
+	"link": [],
+	"biotoolsID": "ebi:redis",
+	"additionDate": "2019-08-21T09:00:15Z",
+	"name": "redis",
+	"license": null,
+	"documentation": [],
+	"maturity": "Mature",
+	"operatingSystem": [
+		"Linux"
+	]
+}, {
+		"collectionID": ["BioExcel", "Rare Disease"],
+		"accessibility": ["Open access"],
+		"topic": [{
+			"term": "Proteins",
+			"uri": "http://edamontology.org/topic_0078"
+		}, {
+			"term": "Bioinformatics",
+			"uri": "http://edamontology.org/topic_0091"
+		}, {
+			"term": "Function analysis",
+			"uri": "http://edamontology.org/topic_1775"
+		}, {
+			"term": "Molecular interactions, pathways and networks",
+			"uri": "http://edamontology.org/topic_0602"
+		}, {
+			"term": "Sequence analysis",
+			"uri": "http://edamontology.org/topic_0080"
+		}],
+		"owner": "ELIXIR-EE",
+		"cost": "Free of charge",
+		"relation": [],
+		"download": [],
+		"validated": 0,
+		"publication": [{
+			"doi": "10.1093/nar/gki491",
+			"version": null,
+			"pmid": "15980463",
+			"type": "Primary",
+			"pmcid": "PMC1160251",
+			"metadata": null
+		}, {
+			"doi": "10.1093/nar/gkp302",
+			"version": null,
+			"pmid": "19435877",
+			"type": "Primary",
+			"pmcid": "PMC2703973",
+			"metadata": null
+		}, {
+			"doi": "10.1093/nar/gkh405",
+			"version": null,
+			"pmid": "15215339",
+			"type": "Primary",
+			"pmcid": "PMC441543",
+			"metadata": null
+		}, {
+			"doi": "10.1093/nar/gkm291",
+			"version": null,
+			"pmid": "17576686",
+			"type": "Primary",
+			"pmcid": "PMC1933145",
+			"metadata": null
+		}, {
+			"doi": "10.1093/nar/gkt376",
+			"version": null,
+			"pmid": "23671338",
+			"type": "Primary",
+			"pmcid": "PMC3692137",
+			"metadata": null
+		}, {
+			"doi": "10.1093/nar/gkv1352",
+			"version": null,
+			"pmid": null,
+			"type": "Primary",
+			"pmcid": null,
+			"metadata": {
+				"title": "The European Bioinformatics Institute in 2016: Data growth and integration",
+				"abstract": "© The Author(s) 2015. New technologies are revolutionising biological research and its applications by making it easier and cheaper to generate ever-greater volumes and types of data. In response, the services and infrastructure of the European Bioinformatics Institute (EMBL-EBI, www.ebi.ac.UK) are continually expanding: total disk capacity increases significantly every year to keep pace with demand (75 petabytes as of December 2015), and interoperability between resources remains a strategic priority. Since 2014 we have launched two new resources: the European Variation Archive for genetic variation data and EMPIAR for two-dimensional electron microscopy data, as well as a Resource Description Framework platform. We also launched the Embassy Cloud service, which allows users to run large analyses in a virtual environment next to EMBL-EBI's vast public data resources.",
+				"citationCount": 57,
+				"authors": [{
+					"name": "Cook C.E."
+				}, {
+					"name": "Bergman M.T."
+				}, {
+					"name": "Finn R.D."
+				}, {
+					"name": "Cochrane G."
+				}, {
+					"name": "Birney E."
+				}, {
+					"name": "Apweiler R."
+				}],
+				"date": "2016-01-01T00:00:00Z",
+				"journal": "Nucleic Acids Research"
+			}
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": ["Primary contact"],
+			"name": "EMBL - European Bioinformatics Institute",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": "www-prod@ebi.ac.uk"
+		}],
+		"biotoolsCURIE": "biotools:ebi_tools",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": [],
+		"elixir_badge": 0,
+		"homepage": "http://www.ebi.ac.uk/Tools/webservices/",
+		"function": [{
+			"note": null,
+			"input": [],
+			"operation": [{
+				"term": "Sequence similarity search",
+				"uri": "http://edamontology.org/operation_0346"
+			}, {
+				"term": "Data retrieval",
+				"uri": "http://edamontology.org/operation_2422"
+			}, {
+				"term": "Protein function analysis",
+				"uri": "http://edamontology.org/operation_2414"
+			}, {
+				"term": "Query and retrieval",
+				"uri": "http://edamontology.org/operation_0224"
+			}, {
+				"term": "Multiple sequence alignment",
+				"uri": "http://edamontology.org/operation_0492"
+			}],
+			"cmd": null,
+			"output": []
+		}],
+		"lastUpdate": "2019-06-06T08:50:51Z",
+		"otherID": [],
+		"description": "EBI Tools is a project that aims to provide programmatic access to the various databases and retrieval and analysis services that the European Bioinformatics Institute (EBI) provides through Simple Object Access Protocol (SOAP) and other related web service technologies. Example tools include those to compute sequence similarity searches, pairwise/multiple sequence alignment and protein functional analysis.",
+		"toolType": ["Web API", "Web application", "Web service"],
+		"editPermission": {
+			"type": "group",
+			"authors": ["biomadeira"]
+		},
+		"language": ["Java", "Perl"],
+		"link": [],
+		"biotoolsID": "ebi_tools",
+		"additionDate": "2017-03-24T11:31:31Z",
+		"name": "EBI Tools",
+		"license": null,
+		"documentation": [{
+			"url": "https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Job+Dispatcher+Sequence+Analysis+Tools+Home#JobDispatcherSequenceAnalysisToolsHome-Usage",
+			"note": null,
+			"type": "General"
+		}],
+		"maturity": "Mature",
+		"operatingSystem": ["Linux", "Windows", "Mac"]
+	}, {
+		"collectionID": ["BioExcel", "ms-utils"],
+		"accessibility": [],
+		"topic": [{
+			"term": "Workflows",
+			"uri": "http://edamontology.org/topic_0769"
+		}, {
+			"term": "Experimental design and studies",
+			"uri": "http://edamontology.org/topic_3678"
+		}],
+		"owner": "msutils_import",
+		"cost": "Free of charge",
+		"relation": [],
+		"download": [],
+		"validated": 0,
+		"publication": [{
+			"doi": null,
+			"version": null,
+			"pmid": "23640334",
+			"type": null,
+			"pmcid": null,
+			"metadata": {
+				"title": "The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud.",
+				"abstract": "The Taverna workflow tool suite (http://www.taverna.org.uk) is designed to combine distributed Web Services and/or local tools into complex analysis pipelines. These pipelines can be executed on local desktop machines or through larger infrastructure (such as supercomputers, Grids or cloud environments), using the Taverna Server. In bioinformatics, Taverna workflows are typically used in the areas of high-throughput omics analyses (for example, proteomics or transcriptomics), or for evidence gathering methods involving text mining or data mining. Through Taverna, scientists have access to several thousand different tools and resources that are freely available from a large range of life science institutions. Once constructed, the workflows are reusable, executable bioinformatics protocols that can be shared, reused and repurposed. A repository of public workflows is available at http://www.myexperiment.org. This article provides an update to the Taverna tool suite, highlighting new features and developments in the workbench and the Taverna Server.",
+				"citationCount": 348,
+				"authors": [{
+					"name": "Wolstencroft K."
+				}, {
+					"name": "Haines R."
+				}, {
+					"name": "Fellows D."
+				}, {
+					"name": "Williams A."
+				}, {
+					"name": "Withers D."
+				}, {
+					"name": "Owen S."
+				}, {
+					"name": "Soiland-Reyes S."
+				}, {
+					"name": "Dunlop I."
+				}, {
+					"name": "Nenadic A."
+				}, {
+					"name": "Fisher P."
+				}, {
+					"name": "Bhagat J."
+				}, {
+					"name": "Belhajjame K."
+				}, {
+					"name": "Bacall F."
+				}, {
+					"name": "Hardisty A."
+				}, {
+					"name": "Nieva de la Hidalga A."
+				}, {
+					"name": "Balcazar Vargas M.P."
+				}, {
+					"name": "Sufi S."
+				}, {
+					"name": "Goble C."
+				}],
+				"date": "2013-01-01T00:00:00Z",
+				"journal": "Nucleic acids research"
+			}
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": ["Maintainer"],
+			"name": "Katherine Wolstencroft",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": "katherine.wolstencroft@manchester.ac.uk"
+		}, {
+			"typeRole": ["Documentor"],
+			"name": null,
+			"url": "http://ms-utils.org",
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": "webmaster@ms-utils.org"
+		}],
+		"biotoolsCURIE": "biotools:taverna",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": ["3.1.0"],
+		"elixir_badge": 0,
+		"homepage": "https://taverna.incubator.apache.org/",
+		"function": [{
+			"note": null,
+			"input": [],
+			"operation": [{
+				"term": "Data handling",
+				"uri": "http://edamontology.org/operation_2409"
+			}, {
+				"term": "Service management",
+				"uri": "http://edamontology.org/operation_3760"
+			}],
+			"cmd": null,
+			"output": []
+		}],
+		"lastUpdate": "2019-03-04T13:49:39Z",
+		"otherID": [],
+		"description": "An open source and domain-independent Workflow Management System – a suite of tools used to design and execute scientific workflows and aid in silico experimentation.",
+		"toolType": ["Command-line tool", "Desktop application"],
+		"editPermission": {
+			"type": "group",
+			"authors": ["ELIXIR-EE"]
+		},
+		"language": ["Java"],
+		"link": [{
+			"url": "http://ms-utils.org",
+			"note": null,
+			"type": "Registry"
+		}],
+		"biotoolsID": "taverna",
+		"additionDate": "2017-01-17T14:50:44Z",
+		"name": "Taverna123",
+		"license": null,
+		"documentation": [{
+			"url": "https://taverna.incubator.apache.org/documentation/",
+			"note": null,
+			"type": "General"
+		}],
+		"maturity": "Mature",
+		"operatingSystem": ["Linux", "Windows", "Mac"]
+	}, {
+		"collectionID": ["BioExcel", "IRB-BSC", "ELIXIR-ES", "MuG"],
+		"accessibility": [],
+		"topic": [{
+			"term": "Nucleic acids",
+			"uri": "http://edamontology.org/topic_0077"
+		}, {
+			"term": "DNA",
+			"uri": "http://edamontology.org/topic_0654"
+		}, {
+			"term": "Simulation experiment",
+			"uri": "http://edamontology.org/topic_3524"
+		}],
+		"owner": "gelpi@ub.edu",
+		"cost": "Free of charge (with restrictions)",
+		"relation": [],
+		"download": [{
+			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php?id=BNSdownload",
+			"note": null,
+			"version": null,
+			"type": "Source code"
+		}, {
+			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php?id=BNSdownload",
+			"note": null,
+			"version": null,
+			"type": "Binaries"
+		}],
+		"validated": 0,
+		"publication": [{
+			"doi": "10.1093/nar/gkv1301",
+			"version": null,
+			"pmid": null,
+			"type": "Primary",
+			"pmcid": null,
+			"metadata": {
+				"title": "BIGNASim: A NoSQL database structure and analysis portal for nucleic acids simulation data",
+				"abstract": "© The Author(s) 2015. Molecular dynamics simulation (MD) is, just behind genomics, the bioinformatics tool that generates the largest amounts of data, and that is using the largest amount of CPU time in supercomputing centres. MD trajectories are obtained after months of calculations, analysed in situ, and in practice forgotten. Several projects to generate stable trajectory databases have been developed for proteins, but no equivalence exists in the nucleic acids world. We present here a novel database system to store MD trajectories and analyses of nucleic acids. The initial data set available consists mainly of the benchmark of the new molecular dynamics force-field, parmBSC1. It contains 156 simulations, with over 120 μs of total simulation time. A deposition protocol is available to accept the submission of new trajectory data. The database is based on the combination of two NoSQL engines, Cassandra for storing trajectories and MongoDB to store analysis results and simulation metadata. The analyses available include backbone geometries, helical analysis, NMR observables and a variety of mechanical analyses. Individual trajectories and combined meta-trajectories can be downloaded from the portal. The system is accessible through http://mmb.irbbarcelona.org/BIGNASim/. Supplementary Material is also available on-line at http://mmb. irbbarcelona.org/BIGNASim/SuppMaterial/.",
+				"citationCount": 13,
+				"authors": [{
+					"name": "Hospital A."
+				}, {
+					"name": "Andrio P."
+				}, {
+					"name": "Cugnasco C."
+				}, {
+					"name": "Codo L."
+				}, {
+					"name": "Becerra Y."
+				}, {
+					"name": "Dans P.D."
+				}, {
+					"name": "Battistini F."
+				}, {
+					"name": "Torres J."
+				}, {
+					"name": "Goni R."
+				}, {
+					"name": "Orozco M."
+				}, {
+					"name": "Gelpy J.Ll."
+				}],
+				"date": "2016-01-01T00:00:00Z",
+				"journal": "Nucleic Acids Research"
+			}
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": ["Developer"],
+			"name": "Cesare Cugnasco",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": null
+		}, {
+			"typeRole": ["Developer"],
+			"name": "Pau Andrio",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": null
+		}, {
+			"typeRole": ["Developer"],
+			"name": "Adam Hospital",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": null
+		}, {
+			"typeRole": ["Developer"],
+			"name": "Laia Codó",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": null
+		}, {
+			"typeRole": ["Provider"],
+			"name": "University of Barcelona",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Institute",
+			"email": null
+		}, {
+			"typeRole": ["Provider"],
+			"name": "Barcelona Supercomputing Center",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Institute",
+			"email": null
+		}, {
+			"typeRole": ["Provider"],
+			"name": "Institute of Research In Biomedicine - Barcelona",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Institute",
+			"email": null
+		}, {
+			"typeRole": ["Provider"],
+			"name": "Technic University of Catalonia",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Institute",
+			"email": null
+		}, {
+			"typeRole": ["Primary contact"],
+			"name": "Adam Hospital",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": "adam.hospital@irbbarcelona.org"
+		}, {
+			"typeRole": ["Primary contact"],
+			"name": null,
+			"url": "http://mmb.irbbarcelona.org/",
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": "modesto@mmb.pcb.ub.es"
+		}],
+		"biotoolsCURIE": "biotools:bignasim",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": [],
+		"elixir_badge": 0,
+		"homepage": "http://mmb.irbbarcelona.org/BIGNASim/",
+		"function": [{
+			"note": null,
+			"input": [],
+			"operation": [{
+				"term": "Modelling and simulation",
+				"uri": "http://edamontology.org/operation_2426"
+			}],
+			"cmd": null,
+			"output": []
+		}, {
+			"note": null,
+			"input": [],
+			"operation": [{
+				"term": "Database search",
+				"uri": "http://edamontology.org/operation_2421"
+			}],
+			"cmd": null,
+			"output": []
+		}],
+		"lastUpdate": "2019-02-26T14:54:36Z",
+		"otherID": [],
+		"description": "Comprehensive platform including a database system and an analysis portal, aimed to be a general database for handling nucleic acids simulations.",
+		"toolType": ["Database portal", "Workbench"],
+		"editPermission": {
+			"type": "private",
+			"authors": []
+		},
+		"language": ["PHP", "JavaScript", "Perl", "Python"],
+		"link": [{
+			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php?id=BNSdownload",
+			"note": null,
+			"type": "Repository"
+		}],
+		"biotoolsID": "bignasim",
+		"additionDate": "2016-04-07T08:58:25Z",
+		"name": "BigNASim",
+		"license": null,
+		"documentation": [{
+			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php?id=references",
+			"note": null,
+			"type": "Citation instructions"
+		}, {
+			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php",
+			"note": null,
+			"type": "Manual"
+		}],
+		"maturity": "Mature",
+		"operatingSystem": ["Linux"]
+	}, {
+		"collectionID": ["BioExcel"],
+		"accessibility": [],
+		"topic": [{
+			"term": "Molecular dynamics",
+			"uri": "http://edamontology.org/topic_0176"
+		}, {
+			"term": "Computational chemistry",
+			"uri": "http://edamontology.org/topic_3332"
+		}],
+		"owner": "jdianes",
+		"cost": "Free of charge (with restrictions)",
+		"relation": [],
+		"download": [{
+			"url": "http://www.fz-juelich.de/ias/jsc/EN/Expertise/Support/Software/Chemistry/CPMD.html",
+			"note": null,
+			"version": null,
+			"type": "VM image"
+		}],
+		"validated": 0,
+		"publication": [{
+			"doi": "10.1016/S0167-8191(00)00014-4",
+			"version": null,
+			"pmid": null,
+			"type": "Primary",
+			"pmcid": null,
+			"metadata": {
+				"title": "New advances in chemistry and materials science with CPMD and parallel computing",
+				"abstract": "The density functional theory and molecular dynamics (DFT-MD) method and of a CMPD parallel code is presented based on a plane wave scheme. Its power is shown through the survey of specific applications to diverse frontier areas of chemistry and materials science that make use of parallel computing.",
+				"citationCount": 114,
+				"authors": [{
+					"name": "Andreoni W."
+				}, {
+					"name": "Curioni A."
+				}],
+				"date": "2000-01-01T00:00:00Z",
+				"journal": "Parallel Computing"
+			}
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": ["Primary contact"],
+			"name": "CPMD contact",
+			"url": "http://cpmd.org/contact-info",
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": "e.ippoliti@fz-juelich.de"
+		}, {
+			"typeRole": ["Primary contact"],
+			"name": "Emiliano Ippoliti",
+			"url": "http://www.fz-juelich.de/SharedDocs/Personen/IAS/IAS-5/EN/Staff/Ippoliti.html?nn=1166568",
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": null
+		}],
+		"biotoolsCURIE": "biotools:cpmd",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": [],
+		"elixir_badge": 0,
+		"homepage": "http://www.cpmd.org/",
+		"function": [{
+			"note": null,
+			"input": [{
+				"data": {
+					"term": "Small molecule structure",
+					"uri": "http://edamontology.org/data_1463"
+				},
+				"format": []
+			}, {
+				"data": {
+					"term": "Structure",
+					"uri": "http://edamontology.org/data_0883"
+				},
+				"format": []
+			}],
+			"operation": [{
+				"term": "Protein property calculation",
+				"uri": "http://edamontology.org/operation_0250"
+			}],
+			"cmd": null,
+			"output": [{
+				"data": {
+					"term": "Structure",
+					"uri": "http://edamontology.org/data_0883"
+				},
+				"format": []
+			}, {
+				"data": {
+					"term": "Small molecule structure",
+					"uri": "http://edamontology.org/data_1463"
+				},
+				"format": []
+			}]
+		}],
+		"lastUpdate": "2019-02-17T18:40:00Z",
+		"otherID": [],
+		"description": "Parallelized plane wave/pseudopotential implementation of Density Functional Theory, particularly designed for ab-initio molecular dynamics.",
+		"toolType": ["Command-line tool", "Workflow"],
+		"editPermission": {
+			"type": "group",
+			"authors": ["adam.hospital@irbbarcelona.org", "gelpi@ub.edu"]
+		},
+		"language": ["Fortran"],
+		"link": [{
+			"url": "http://cpmd.org/documentation/mailing-list",
+			"note": null,
+			"type": "Mailing list"
+		}],
+		"biotoolsID": "cpmd",
+		"additionDate": "2016-10-03T14:08:36Z",
+		"name": "CPMD",
+		"license": null,
+		"documentation": [{
+			"url": "http://cpmd.org/documentation",
+			"note": null,
+			"type": "General"
+		}, {
+			"url": "http://cpmd.org/documentation",
+			"note": null,
+			"type": "Training material"
+		}, {
+			"url": "http://cpmd.org/downloadable-files/no-authentication/manual_v4_0_1.pdf",
+			"note": null,
+			"type": "Manual"
+		}, {
+			"url": "http://cpmd.org/documentation/cpmd-html-manual",
+			"note": "HTML version of manual.",
+			"type": "Manual"
+		}, {
+			"url": "http://cpmd.org/cpmd-tutorial",
+			"note": null,
+			"type": "Tutorial"
+		}],
+		"maturity": "Mature",
+		"operatingSystem": ["Linux"]
+	}, {
+		"collectionID": ["BioExcel"],
+		"accessibility": ["Open access"],
+		"topic": [{
+			"term": "Sequence analysis",
+			"uri": "http://edamontology.org/topic_0080"
+		}],
+		"owner": "adam.hospital@irbbarcelona.org",
+		"cost": "Free of charge",
+		"relation": [],
+		"download": [{
+			"url": "https://github.com/bioexcel/BioExcel_SeqQC",
+			"note": "Pipeline Repository",
+			"version": null,
+			"type": "Source code"
+		}],
+		"validated": 1,
+		"publication": [{
+			"doi": "10.5281/zenodo.263965",
+			"version": null,
+			"pmid": null,
+			"type": "Other",
+			"pmcid": null,
+			"metadata": null
+		}, {
+			"doi": "10.5281/zenodo.1060946",
+			"version": null,
+			"pmid": null,
+			"type": "Other",
+			"pmcid": null,
+			"metadata": null
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": [],
+			"name": "BioExcel Center of Excellence for Computational Biomolecular Research",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": null,
+			"email": null
+		}, {
+			"typeRole": ["Primary contact"],
+			"name": "Darren White",
+			"url": "https://www.epcc.ed.ac.uk/about/staff/dr-darren-white",
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": "d.white@epcc.ed.ac.uk"
+		}],
+		"biotoolsCURIE": "biotools:bioexcel_seqqc",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": ["Alpha"],
+		"elixir_badge": 0,
+		"homepage": "https://bioexcel.eu/research/projects/use-case-rapid-turnaround-cancer-analysis-pipeline-for-high-throughput-sequencing-data/",
+		"function": [{
+			"note": null,
+			"input": [{
+				"data": {
+					"term": "Sequence",
+					"uri": "http://edamontology.org/data_2044"
+				},
+				"format": [{
+					"term": "FASTQ",
+					"uri": "http://edamontology.org/format_1930"
+				}]
+			}],
+			"operation": [{
+				"term": "Sequence analysis",
+				"uri": "http://edamontology.org/operation_2403"
+			}, {
+				"term": "Sequencing quality control",
+				"uri": "http://edamontology.org/operation_3218"
+			}, {
+				"term": "Annotation",
+				"uri": "http://edamontology.org/operation_0226"
+			}, {
+				"term": "Sequence assembly validation",
+				"uri": "http://edamontology.org/operation_3180"
+			}],
+			"cmd": null,
+			"output": [{
+				"data": {
+					"term": "DNA sequence (raw)",
+					"uri": "http://edamontology.org/data_3497"
+				},
+				"format": [{
+					"term": "FASTQ",
+					"uri": "http://edamontology.org/format_1930"
+				}]
+			}]
+		}],
+		"lastUpdate": "2019-02-07T16:49:54Z",
+		"otherID": [],
+		"description": "Workflow to perform high throughput Next Generation Sequencing (NGS) sequencing quality control stages",
+		"toolType": ["Command-line tool", "Library", "Workflow"],
+		"editPermission": {
+			"type": "group",
+			"authors": ["dwhitebe"]
+		},
+		"language": ["Python"],
+		"link": [{
+			"url": "https://bioexcel.eu/research/projects/use-case-rapid-turnaround-cancer-analysis-pipeline-for-high-throughput-sequencing-data/",
+			"note": "Pipeline Description - this workflow consists of stage 1",
+			"type": "Other"
+		}, {
+			"url": "https://github.com/bioexcel/BioExcel_SeqQC",
+			"note": "Pipeline Repository",
+			"type": "Repository"
+		}],
+		"biotoolsID": "bioexcel_seqqc",
+		"additionDate": "2018-10-26T08:33:56Z",
+		"name": "BioExcel genome sequence quality control workflow",
+		"license": "Apache-2.0",
+		"documentation": [{
+			"url": "https://github.com/bioexcel/BioExcel_SeqQC/blob/master/README.md",
+			"note": "Repository README",
+			"type": "General"
+		}],
+		"maturity": "Emerging",
+		"operatingSystem": ["Linux", "Windows", "Mac"]
+	}, {
+		"collectionID": ["BioExcel", "IRB-BSC", "ELIXIR-ES", "MuG"],
+		"accessibility": [],
+		"topic": [{
+			"term": "Nucleic acid structure analysis",
+			"uri": "http://edamontology.org/topic_0097"
+		}],
+		"owner": "gelpi@ub.edu",
+		"cost": null,
+		"relation": [],
+		"download": [{
+			"url": "http://mmb.irbbarcelona.org/NAFlex/",
+			"note": "BioExcel_Embassy_NFS_Image",
+			"version": null,
+			"type": "VM image"
+		}],
+		"validated": 1,
+		"publication": [{
+			"doi": "10.1093/nar/gkt378",
+			"version": null,
+			"pmid": "23685436",
+			"type": "Primary",
+			"pmcid": "PMC3692121",
+			"metadata": null
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": ["Developer"],
+			"name": "Adam Hospital",
+			"url": null,
+			"note": null,
+			"orcidid": "http://orcid.org/0000-0002-8291-8071",
+			"typeEntity": "Person",
+			"email": "adam.hospital@irbbarcelona.org"
+		}, {
+			"typeRole": ["Provider"],
+			"name": "IRB-Barcelona",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Institute",
+			"email": null
+		}, {
+			"typeRole": ["Provider"],
+			"name": "ub.edu",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Institute",
+			"email": null
+		}, {
+			"typeRole": ["Support"],
+			"name": "Adam Hospital",
+			"url": null,
+			"note": null,
+			"orcidid": "http://orcid.org/0000-0002-8291-8071",
+			"typeEntity": null,
+			"email": "adam.hospital@irbbarcelona.org"
+		}, {
+			"typeRole": ["Primary contact"],
+			"name": "Adam Hospital",
+			"url": null,
+			"note": null,
+			"orcidid": "http://orcid.org/0000-0002-8291-8071",
+			"typeEntity": "Person",
+			"email": "adam.hospital@irbbarcelona.org"
+		}],
+		"biotoolsCURIE": "biotools:naflex",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": ["1"],
+		"elixir_badge": 0,
+		"homepage": "http://mmb.irbbarcelona.org/NAFlex/",
+		"function": [{
+			"note": "Setup, simulation, and anaoysis portal from nucleic acids molecular dynamics simulations Nucleic acids sequence or 3D structure",
+			"input": [{
+				"data": {
+					"term": "Sequence",
+					"uri": "http://edamontology.org/data_2044"
+				},
+				"format": [{
+					"term": "FASTA-like",
+					"uri": "http://edamontology.org/format_2546"
+				}, {
+					"term": "PDB",
+					"uri": "http://edamontology.org/format_1476"
+				}]
+			}],
+			"operation": [{
+				"term": "Structure visualisation",
+				"uri": "http://edamontology.org/operation_0570"
+			}, {
+				"term": "Molecular dynamics",
+				"uri": "http://edamontology.org/operation_2476"
+			}, {
+				"term": "Nucleic acid structure analysis",
+				"uri": "http://edamontology.org/operation_2481"
+			}],
+			"cmd": null,
+			"output": [{
+				"data": {
+					"term": "Nucleic acid structure data",
+					"uri": "http://edamontology.org/data_2086"
+				},
+				"format": []
+			}]
+		}],
+		"lastUpdate": "2019-01-09T17:02:14Z",
+		"otherID": [],
+		"description": "Nucleic Acids flexibility analysis portal.",
+		"toolType": ["Workbench"],
+		"editPermission": {
+			"type": "group",
+			"authors": ["jdianes"]
+		},
+		"language": ["PHP"],
+		"link": [],
+		"biotoolsID": "naflex",
+		"additionDate": "2016-04-07T09:00:15Z",
+		"name": "NAFlex",
+		"license": null,
+		"documentation": [{
+			"url": "http://mmb.irbbarcelona.org/NAFlex/help.php?id=references",
+			"note": null,
+			"type": "Citation instructions"
+		}, {
+			"url": "http://mmb.irbbarcelona.org/NAFlex/help.php?id=base",
+			"note": null,
+			"type": "General"
+		}],
+		"maturity": "Mature",
+		"operatingSystem": ["Linux"]
+	}, {
+		"collectionID": ["BioExcel", "IRB-BSC", "ELIXIR-ES", "MuG"],
+		"accessibility": [],
+		"topic": [{
+			"term": "Computational chemistry",
+			"uri": "http://edamontology.org/topic_3332"
+		}, {
+			"term": "Bioinformatics",
+			"uri": "http://edamontology.org/topic_0091"
+		}, {
+			"term": "Structure analysis",
+			"uri": "http://edamontology.org/topic_0081"
+		}, {
+			"term": "Nucleic acids",
+			"uri": "http://edamontology.org/topic_0077"
+		}, {
+			"term": "Proteins",
+			"uri": "http://edamontology.org/topic_0078"
+		}, {
+			"term": "Biochemistry",
+			"uri": "http://edamontology.org/topic_3292"
+		}],
+		"owner": "adam.hospital@irbbarcelona.org",
+		"cost": "Free of charge",
+		"relation": [],
+		"download": [],
+		"validated": 1,
+		"publication": [{
+			"doi": "10.1093/bioinformatics/bts139",
+			"version": null,
+			"pmid": "22437851",
+			"type": "Primary",
+			"pmcid": null,
+			"metadata": {
+				"title": "MDWeb and MDMoby: An integrated web-based platform for molecular dynamics simulations",
+				"abstract": "MDWeb and MDMoby constitute a web-based platform to help access to molecular dynamics (MD) in the standard and high-throughput regime. The platform provides tools to prepare systems from PDB structures mimicking the procedures followed by human experts. It provides inputs and can send simulations for three of the most popular MD packages (Amber, NAMD and Gromacs). Tools for analysis of trajectories, either provided by the user or retrieved from our MoDEL database (http://mmb.pcb.ub.es/MoDEL) are also incorporated. The platform has two ways of access, a set of web-services based on the BioMoby framework (MDMoby), programmatically accessible and a web portal (MDWeb). © The Author 2012. Published by Oxford University Press. All rights reserved.",
+				"citationCount": 55,
+				"authors": [{
+					"name": "Hospital A."
+				}, {
+					"name": "Andrio P."
+				}, {
+					"name": "Fenollosa C."
+				}, {
+					"name": "Cicin-Sain D."
+				}, {
+					"name": "Orozco M."
+				}, {
+					"name": "Gelpi J.L."
+				}],
+				"date": "2012-05-01T00:00:00Z",
+				"journal": "Bioinformatics"
+			}
+		}, {
+			"doi": null,
+			"version": null,
+			"pmid": "21070939",
+			"type": "Other",
+			"pmcid": null,
+			"metadata": null
+		}, {
+			"doi": null,
+			"version": null,
+			"pmid": "19429600",
+			"type": "Other",
+			"pmcid": null,
+			"metadata": {
+				"title": "FlexServ: An integrated tool for the analysis of protein flexibility",
+				"abstract": "Summary: FlexServ is a web-based tool for the analysis of protein flexibility. The server incorporates powerful protocols for the coarse-grained determination of protein dynamics using different versions of Normal Mode Analysis (NMA), Brownian dynamics (BD) and Discrete Dynamics (DMD). It can also analyze user provided trajectories. The server allows a complete analysis of flexibility using a large variety of metrics, including basic geometrical analysis, B-factors, essential dynamics, stiffness analysis, collectivity measures, Lindemann's indexes, residue correlation, chain-correlations, dynamic domain determination, hinge point detections, etc. Data is presented through a web interface as plain text, 2D and 3D graphics. © The Author 2009. Published by Oxford University Press. All rights reserved.",
+				"citationCount": 53,
+				"authors": [{
+					"name": "Camps J."
+				}, {
+					"name": "Carrillo O."
+				}, {
+					"name": "Emperador A."
+				}, {
+					"name": "Orellana L."
+				}, {
+					"name": "Hospital A."
+				}, {
+					"name": "Rueda M."
+				}, {
+					"name": "Cicin-Sain D."
+				}, {
+					"name": "D'Abramo M."
+				}, {
+					"name": "Gelpi J.L."
+				}, {
+					"name": "Orozco M."
+				}],
+				"date": "2009-06-29T00:00:00Z",
+				"journal": "Bioinformatics"
+			}
+		}, {
+			"doi": null,
+			"version": null,
+			"pmid": "23685436",
+			"type": "Other",
+			"pmcid": null,
+			"metadata": {
+				"title": "NAFlex: a web server for the study of nucleic acid flexibility.",
+				"abstract": "We present NAFlex, a new web tool to study the flexibility of nucleic acids, either isolated or bound to other molecules. The server allows the user to incorporate structures from protein data banks, completing gaps and removing structural inconsistencies. It is also possible to define canonical (average or sequence-adapted) nucleic acid structures using a variety of predefined internal libraries, as well to create specific nucleic acid conformations from the sequence. The server offers a variety of methods to explore nucleic acid flexibility, such as a colorless wormlike-chain model, a base-pair resolution mesoscopic model and atomistic molecular dynamics simulations with a wide variety of protocols and force fields. The trajectories obtained by simulations, or imported externally, can be visualized and analyzed using a large number of tools, including standard Cartesian analysis, essential dynamics, helical analysis, local and global stiffness, energy decomposition, principal components and in silico NMR spectra. The server is accessible free of charge from the mmb.irbbarcelona.org/NAFlex webpage.",
+				"citationCount": 13,
+				"authors": [{
+					"name": "Hospital A."
+				}, {
+					"name": "Faustino I."
+				}, {
+					"name": "Collepardo-Guevara R."
+				}, {
+					"name": "Gonzalez C."
+				}, {
+					"name": "Gelpi J.L."
+				}, {
+					"name": "Orozco M."
+				}],
+				"date": "2013-01-01T00:00:00Z",
+				"journal": "Nucleic acids research"
+			}
+		}, {
+			"doi": null,
+			"version": null,
+			"pmid": "26612862",
+			"type": "Other",
+			"pmcid": null,
+			"metadata": {
+				"title": "BIGNASim: A NoSQL database structure and analysis portal for nucleic acids simulation data",
+				"abstract": "© The Author(s) 2015. Molecular dynamics simulation (MD) is, just behind genomics, the bioinformatics tool that generates the largest amounts of data, and that is using the largest amount of CPU time in supercomputing centres. MD trajectories are obtained after months of calculations, analysed in situ, and in practice forgotten. Several projects to generate stable trajectory databases have been developed for proteins, but no equivalence exists in the nucleic acids world. We present here a novel database system to store MD trajectories and analyses of nucleic acids. The initial data set available consists mainly of the benchmark of the new molecular dynamics force-field, parmBSC1. It contains 156 simulations, with over 120 μs of total simulation time. A deposition protocol is available to accept the submission of new trajectory data. The database is based on the combination of two NoSQL engines, Cassandra for storing trajectories and MongoDB to store analysis results and simulation metadata. The analyses available include backbone geometries, helical analysis, NMR observables and a variety of mechanical analyses. Individual trajectories and combined meta-trajectories can be downloaded from the portal. The system is accessible through http://mmb.irbbarcelona.org/BIGNASim/. Supplementary Material is also available on-line at http://mmb. irbbarcelona.org/BIGNASim/SuppMaterial/.",
+				"citationCount": 13,
+				"authors": [{
+					"name": "Hospital A."
+				}, {
+					"name": "Andrio P."
+				}, {
+					"name": "Cugnasco C."
+				}, {
+					"name": "Codo L."
+				}, {
+					"name": "Becerra Y."
+				}, {
+					"name": "Dans P.D."
+				}, {
+					"name": "Battistini F."
+				}, {
+					"name": "Torres J."
+				}, {
+					"name": "Goni R."
+				}, {
+					"name": "Orozco M."
+				}, {
+					"name": "Gelpy J.Ll."
+				}],
+				"date": "2016-01-01T00:00:00Z",
+				"journal": "Nucleic Acids Research"
+			}
+		}, {
+			"doi": null,
+			"version": null,
+			"pmid": "23740746",
+			"type": "Other",
+			"pmcid": null,
+			"metadata": {
+				"title": "Exploration of conformational transition pathways from coarse-grained simulations",
+				"abstract": "Motivation: A new algorithm to trace conformational transitions in proteins is presented. The method uses discrete molecular dynamics as engine to sample protein conformational space. A multiple minima Go-like potential energy function is used in combination with several enhancing sampling strategies, such as metadynamics, Maxwell Demon molecular dynamics and essential dynamics. The method, which shows an unprecedented computational efficiency, is able to trace a wide range of known experimental transitions. Contrary to simpler methods our strategy does not introduce distortions in the chemical structure of the protein and is able to reproduce well complex non-linear conformational transitions. The method, called GOdMD, can easily introduce additional restraints to the transition (presence of ligand, known intermediate, known maintained contacts, ...) and is freely distributed to the community through the Spanish National Bioinformatics Institute (http://mmb.irbbarcelona.org/GOdMD).Availability: Freely available on the web at http://mmb.irbbarcelona.org/GOdMD.Contact: or modesto@mmb.pcb.ub.esSupplementary information: Supplementary data are available at Bioinformatics online. © 2013 The Author 2013. Published by Oxford University Press.",
+				"citationCount": 17,
+				"authors": [{
+					"name": "Sfriso P."
+				}, {
+					"name": "Hospital A."
+				}, {
+					"name": "Emperador A."
+				}, {
+					"name": "Orozco M."
+				}],
+				"date": "2013-08-15T00:00:00Z",
+				"journal": "Bioinformatics"
+			}
+		}, {
+			"doi": null,
+			"version": null,
+			"pmid": "25348211",
+			"type": "Other",
+			"pmcid": null,
+			"metadata": {
+				"title": "SEABED: Small molEcule activity scanner weB servicE baseD",
+				"abstract": "© The Author 2014. Published by Oxford University Press. All rights reserved.Motivation: The SEABED web server integrates a variety of docking and QSAR techniques in a user-friendly environment. SEABED goes beyond the basic docking and QSAR web tools and implements extended functionalities like receptor preparation, library editing, flexible ensemble docking, hybrid docking/QSAR experiments or virtual screening on protein mutants. SEABED is not a monolithic workflow tool but Software as a Service platform.",
+				"citationCount": 3,
+				"authors": [{
+					"name": "Fenollosa C."
+				}, {
+					"name": "Oton M."
+				}, {
+					"name": "Andrio P."
+				}, {
+					"name": "Cortes J."
+				}, {
+					"name": "Orozco M."
+				}, {
+					"name": "Goni J.R."
+				}],
+				"date": "2015-03-01T00:00:00Z",
+				"journal": "Bioinformatics"
+			}
+		}, {
+			"doi": null,
+			"version": null,
+			"pmid": "18544548",
+			"type": "Other",
+			"pmcid": null,
+			"metadata": {
+				"title": "DNAlive: A tool for the physical analysis of DNA at the genomic scale",
+				"abstract": "DNAlive is a tool for the analysis and graphical display of structural and physical characteristics of genomic DNA. The web server implements a wide repertoire of metrics to derive physical information from DNA sequences with a powerful interface to derive 3D information on large sequences of both naked and protein-bound DNAs. Furthermore, it implements a mesoscopic Metropolis code which allows the inexpensive study of the dynamic properties of chromatin fibers. In addition, our server also surveys other protein and genomic databases allowing the user to combine and explore the physical properties of selected DNA in the context of functional features annotated on those regions. © The Author 2008. Published by Oxford University Press. All rights reserved.",
+				"citationCount": 18,
+				"authors": [{
+					"name": "Goni J.R."
+				}, {
+					"name": "Fenollosa C."
+				}, {
+					"name": "Perez A."
+				}, {
+					"name": "Torrents D."
+				}, {
+					"name": "Orozco M."
+				}],
+				"date": "2008-01-01T00:00:00Z",
+				"journal": "Bioinformatics"
+			}
+		}, {
+			"doi": null,
+			"version": null,
+			"pmid": "26605625",
+			"type": "Other",
+			"pmcid": null,
+			"metadata": null
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": ["Provider"],
+			"name": "IRB-BSC",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Institute",
+			"email": null
+		}, {
+			"typeRole": ["Provider"],
+			"name": "irbbarcelona.org",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Institute",
+			"email": null
+		}, {
+			"typeRole": ["Support"],
+			"name": "Adam Hospital",
+			"url": "http://mmb.irbbarcelona.org/www/",
+			"note": null,
+			"orcidid": "http://orcid.org/0000-0002-8291-8071",
+			"typeEntity": null,
+			"email": "adam.hospital@irbbarcelona.org"
+		}, {
+			"typeRole": ["Primary contact"],
+			"name": "Adam Hospital",
+			"url": "http://mmb.irbbarcelona.org/www/",
+			"note": null,
+			"orcidid": "http://orcid.org/0000-0002-8291-8071",
+			"typeEntity": "Person",
+			"email": "adam.hospital@irbbarcelona.org"
+		}],
+		"biotoolsCURIE": "biotools:flexportal",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": ["1"],
+		"elixir_badge": 0,
+		"homepage": "http://mmb.irbbarcelona.org/FlexPortal/",
+		"function": [{
+			"note": null,
+			"input": [{
+				"data": {
+					"term": "Structure",
+					"uri": "http://edamontology.org/data_0883"
+				},
+				"format": [{
+					"term": "PDB",
+					"uri": "http://edamontology.org/format_1476"
+				}]
+			}],
+			"operation": [{
+				"term": "Database search",
+				"uri": "http://edamontology.org/operation_2421"
+			}, {
+				"term": "Structure visualisation",
+				"uri": "http://edamontology.org/operation_0570"
+			}, {
+				"term": "Structure analysis",
+				"uri": "http://edamontology.org/operation_2480"
+			}, {
+				"term": "Protein structure analysis",
+				"uri": "http://edamontology.org/operation_2406"
+			}, {
+				"term": "Data retrieval",
+				"uri": "http://edamontology.org/operation_2422"
+			}, {
+				"term": "Molecular dynamics simulation",
+				"uri": "http://edamontology.org/operation_2476"
+			}],
+			"cmd": null,
+			"output": [{
+				"data": {
+					"term": "Protein structure",
+					"uri": "http://edamontology.org/data_1460"
+				},
+				"format": [{
+					"term": "PDB",
+					"uri": "http://edamontology.org/format_1476"
+				}]
+			}]
+		}],
+		"lastUpdate": "2018-12-30T16:56:09Z",
+		"otherID": [],
+		"description": "FlexPortal is a web portal containing a series of tools and databases related to macromolecular structure flexibility, developed to offer an integrated approach to study flexibility. Tools such as molecular dynamics atomistic and coarse-grained simulations, proteins and nucleic acids dynamics and flexibility analyses and structures and trajectories databases/repositories  are integrated in a publicly available web interface.",
+		"toolType": ["Workbench"],
+		"editPermission": {
+			"type": "group",
+			"authors": ["gelpi@ub.edu"]
+		},
+		"language": ["PHP", "JavaScript", "Python"],
+		"link": [],
+		"biotoolsID": "flexportal",
+		"additionDate": "2016-09-30T08:36:50Z",
+		"name": "FlexPortal",
+		"license": null,
+		"documentation": [{
+			"url": "http://mmb.irbbarcelona.org/FlexPortal/",
+			"note": null,
+			"type": "Citation instructions"
+		}, {
+			"url": "http://mmb.irbbarcelona.org/FlexPortal/",
+			"note": null,
+			"type": "General"
+		}],
+		"maturity": "Mature",
+		"operatingSystem": ["Linux"]
+	}, {
+		"collectionID": ["BioExcel", "IRB-BSC", "ELIXIR-ES"],
+		"accessibility": [],
+		"topic": [{
+			"term": "Structure analysis",
+			"uri": "http://edamontology.org/topic_0081"
+		}, {
+			"term": "Biophysics",
+			"uri": "http://edamontology.org/topic_3306"
+		}, {
+			"term": "Molecular dynamics",
+			"uri": "http://edamontology.org/topic_0176"
+		}, {
+			"term": "Molecular modelling",
+			"uri": "http://edamontology.org/topic_2275"
+		}],
+		"owner": "jdianes",
+		"cost": "Free of charge (with restrictions)",
+		"relation": [],
+		"download": [],
+		"validated": 1,
+		"publication": [{
+			"doi": "10.1093/bioinformatics/bts139",
+			"version": null,
+			"pmid": null,
+			"type": "Primary",
+			"pmcid": null,
+			"metadata": {
+				"title": "MDWeb and MDMoby: An integrated web-based platform for molecular dynamics simulations",
+				"abstract": "MDWeb and MDMoby constitute a web-based platform to help access to molecular dynamics (MD) in the standard and high-throughput regime. The platform provides tools to prepare systems from PDB structures mimicking the procedures followed by human experts. It provides inputs and can send simulations for three of the most popular MD packages (Amber, NAMD and Gromacs). Tools for analysis of trajectories, either provided by the user or retrieved from our MoDEL database (http://mmb.pcb.ub.es/MoDEL) are also incorporated. The platform has two ways of access, a set of web-services based on the BioMoby framework (MDMoby), programmatically accessible and a web portal (MDWeb). © The Author 2012. Published by Oxford University Press. All rights reserved.",
+				"citationCount": 55,
+				"authors": [{
+					"name": "Hospital A."
+				}, {
+					"name": "Andrio P."
+				}, {
+					"name": "Fenollosa C."
+				}, {
+					"name": "Cicin-Sain D."
+				}, {
+					"name": "Orozco M."
+				}, {
+					"name": "Gelpi J.L."
+				}],
+				"date": "2012-05-01T00:00:00Z",
+				"journal": "Bioinformatics"
+			}
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": [],
+			"name": "Institute of Research in Biomedicine - Barcelona",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Institute",
+			"email": null
+		}, {
+			"typeRole": ["Primary contact"],
+			"name": "Institute for Research in Biomedicine Barcelona",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": "mdweb@mmb.irbbarcelona.org"
+		}],
+		"biotoolsCURIE": "biotools:mdweb",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": ["2.0"],
+		"elixir_badge": 0,
+		"homepage": "http://mmb.irbbarcelona.org/MDWeb2",
+		"function": [{
+			"note": "Platform for setup and analysis of molecular dynamics simulations",
+			"input": [{
+				"data": {
+					"term": "PDB ID",
+					"uri": "http://edamontology.org/data_1127"
+				},
+				"format": [{
+					"term": "plain text format (unformatted)",
+					"uri": "http://edamontology.org/format_1964"
+				}]
+			}, {
+				"data": {
+					"term": "Structure",
+					"uri": "http://edamontology.org/data_0883"
+				},
+				"format": [{
+					"term": "PDB",
+					"uri": "http://edamontology.org/format_1476"
+				}]
+			}],
+			"operation": [{
+				"term": "Structure visualisation",
+				"uri": "http://edamontology.org/operation_0570"
+			}, {
+				"term": "Molecular dynamics",
+				"uri": "http://edamontology.org/operation_2476"
+			}],
+			"cmd": null,
+			"output": []
+		}],
+		"lastUpdate": "2018-12-10T14:50:30Z",
+		"otherID": [],
+		"description": "Web-based platform to help access to molecular dynamics (MD). The platform provides tools to prepare systems from PDB structures mimicking the procedures followed by human experts. It provides inputs and can send simulations for three of the most popular MD packages (Amber, NAMD and Gromacs). Tools for analysis of trajectories are also incorporated.",
+		"toolType": ["Web application", "Workbench"],
+		"editPermission": {
+			"type": "group",
+			"authors": ["adam.hospital@irbbarcelona.org", "gelpi@ub.edu"]
+		},
+		"language": ["PHP"],
+		"link": [],
+		"biotoolsID": "mdweb",
+		"additionDate": "2016-10-03T14:08:36Z",
+		"name": "MDWeb",
+		"license": null,
+		"documentation": [{
+			"url": "http://mmb.irbbarcelona.org/MDWeb2/help.php?id=base",
+			"note": null,
+			"type": "Manual"
+		}, {
+			"url": "http://mmb.irbbarcelona.org/MDWeb2/help.php?id=base",
+			"note": null,
+			"type": "Training material"
+		}],
+		"maturity": "Mature",
+		"operatingSystem": ["Linux"]
+	}, {
+		"collectionID": ["BioExcel", "IRB-BSC", "ELIXIR-ES"],
+		"accessibility": [],
+		"topic": [{
+			"term": "Molecular dynamics",
+			"uri": "http://edamontology.org/topic_0176"
+		}],
+		"owner": "jdianes",
+		"cost": "Free of charge",
+		"relation": [],
+		"download": [],
+		"validated": 1,
+		"publication": [{
+			"doi": "10.1093/bioinformatics/btp304",
+			"version": null,
+			"pmid": null,
+			"type": "Primary",
+			"pmcid": null,
+			"metadata": {
+				"title": "FlexServ: An integrated tool for the analysis of protein flexibility",
+				"abstract": "Summary: FlexServ is a web-based tool for the analysis of protein flexibility. The server incorporates powerful protocols for the coarse-grained determination of protein dynamics using different versions of Normal Mode Analysis (NMA), Brownian dynamics (BD) and Discrete Dynamics (DMD). It can also analyze user provided trajectories. The server allows a complete analysis of flexibility using a large variety of metrics, including basic geometrical analysis, B-factors, essential dynamics, stiffness analysis, collectivity measures, Lindemann's indexes, residue correlation, chain-correlations, dynamic domain determination, hinge point detections, etc. Data is presented through a web interface as plain text, 2D and 3D graphics. © The Author 2009. Published by Oxford University Press. All rights reserved.",
+				"citationCount": 53,
+				"authors": [{
+					"name": "Camps J."
+				}, {
+					"name": "Carrillo O."
+				}, {
+					"name": "Emperador A."
+				}, {
+					"name": "Orellana L."
+				}, {
+					"name": "Hospital A."
+				}, {
+					"name": "Rueda M."
+				}, {
+					"name": "Cicin-Sain D."
+				}, {
+					"name": "D'Abramo M."
+				}, {
+					"name": "Gelpi J.L."
+				}, {
+					"name": "Orozco M."
+				}],
+				"date": "2009-06-29T00:00:00Z",
+				"journal": "Bioinformatics"
+			}
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": ["Primary contact"],
+			"name": "Institute for Research in Biomedicine Barcelona",
+			"url": null,
+			"note": null,
+			"orcidid": null,
+			"typeEntity": "Person",
+			"email": "adam.hospital@irbbarcelona.org"
+		}],
+		"biotoolsCURIE": "biotools:flexserv",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": ["1.0"],
+		"elixir_badge": 0,
+		"homepage": "http://mmb.irbbarcelona.org/FlexServ",
+		"function": [{
+			"note": null,
+			"input": [{
+				"data": {
+					"term": "Protein structure",
+					"uri": "http://edamontology.org/data_1460"
+				},
+				"format": [{
+					"term": "PDB",
+					"uri": "http://edamontology.org/format_1476"
+				}]
+			}],
+			"operation": [{
+				"term": "Protein flexibility and motion analysis",
+				"uri": "http://edamontology.org/operation_0244"
+			}],
+			"cmd": null,
+			"output": [{
+				"data": {
+					"term": "Report",
+					"uri": "http://edamontology.org/data_2048"
+				},
+				"format": [{
+					"term": "Textual format",
+					"uri": "http://edamontology.org/format_2330"
+				}]
+			}]
+		}],
+		"lastUpdate": "2018-12-10T14:49:22Z",
+		"otherID": [],
+		"description": "Web portal offering a complete set of macromolecular  flexibility analyses from a coarse-grained or atomistic MD trajectory",
+		"toolType": ["Web application"],
+		"editPermission": {
+			"type": "group",
+			"authors": ["adam.hospital@irbbarcelona.org", "gelpi@ub.edu"]
+		},
+		"language": ["PHP"],
+		"link": [],
+		"biotoolsID": "flexserv",
+		"additionDate": "2016-10-03T14:08:36Z",
+		"name": "FlexServ",
+		"license": null,
+		"documentation": [{
+			"url": "http://mmb.irbbarcelona.org/FlexServ/",
+			"note": null,
+			"type": "General"
+		}],
+		"maturity": "Mature",
+		"operatingSystem": ["Linux", "Windows", "Mac"]
+	}],
+	"next": "?page=2"
+}
