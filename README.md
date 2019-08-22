@@ -1,4 +1,4 @@
-# biotools API mock for integration with Bioexcel Portal
+# biotools API mock for integration testing of Bioexcel Portal
 
 ## Requirement 
 python 3.6
