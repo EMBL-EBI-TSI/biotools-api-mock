@@ -3,8 +3,8 @@
 ## Requirement 
 python 3.6
 
-##Install Flask
+## Install Flask
 pip3 install Flask
 
-## Make executable 
+## Make executable & Run
 biotools.py
