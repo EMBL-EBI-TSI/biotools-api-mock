@@ -2,288 +2,280 @@
 	"count": 32,
 	"previous": null,
 	"list": [{
-	"collectionID": [
-		"BioExcel"
-	],
-	"accessibility": [],
-	"topic": [],
-	"owner": "famaladoss@ebi.ac.uk",
-	"cost": null,
-	"relation": [],
-	"download": [{
-		"url": "https://github.com/EMBL-EBI-TSI/cpa-instance",
-		"note": "BioExcel_ECP_Application",
-		"version": null,
-		"type": "VM image"
-	}],
-	"validated": 1,
-	"publication": [{
-		"doi": "",
-		"version": null,
-		"pmid": "123444",
-		"type": "Primary",
-		"pmcid": "23333",
-		"metadata": null
-	}],
-	"homepage_status": 0,
-	"credit": [{
-			"typeRole": [
-				"Developer"
-			],
-			"name": "Felix Xavier Amaladoss",
-			"url": null,
-			"note": null,
-			"orcidid": "",
-			"typeEntity": "Person",
-			"email": "famaladoss@ebi.ac.uk"
-		}
-	],
-	"biotoolsCURIE": "",
-	"elixirPlatform": [],
-	"elixirNode": [],
-	"version": [
-		"1"
-	],
-	"elixir_badge": 0,
-	"homepage": "https://github.com/EMBL-EBI-TSI/cpa-instance",
-	"function": [],
-	"lastUpdate": "2019-08-15T17:02:14Z",
-	"otherID": [{"teamName": "team-football","config":"openstack config"}],
-	"description": "A generic server Portal app deployable in the Cloud.",
-	"toolType": [
-		"Workbench"
-	],
-	"editPermission": {
-		"type": "group",
-		"authors": []
-	},
-	"language": [
-		"PHP"
-	],
-	"link": [],
-	"biotoolsID": "ebi:generic_server_instance",
-	"additionDate": "2019-08-15T09:00:15Z",
-	"name": "Generic server instance",
-	"license": null,
-	"documentation": [],
-	"maturity": "Mature",
-	"operatingSystem": [
-		"Linux"
-	]
-},{
-	"collectionID": [
-		"BioExcel"
-	],
-	"accessibility": [],
-	"topic": [],
-	"owner": "famaladoss@ebi.ac.uk",
-	"cost": null,
-	"relation": [],
-	"download": [{
-		"url": "https://github.com/EMBL-EBI-TSI/cpa-redis",
-		"note": "BioExcel_ECP_Application",
-		"version": null,
-		"type": "VM image"
-	}],
-	"validated": 1,
-	"publication": [{
-		"doi": "",
-		"version": null,
-		"pmid": "123444",
-		"type": "Primary",
-		"pmcid": "23333",
-		"metadata": null
-	}],
-	"homepage_status": 0,
-	"credit": [{
-			"typeRole": [
-				"Developer"
-			],
-			"name": "Felix Xavier Amaladoss",
-			"url": null,
-			"note": null,
-			"orcidid": "",
-			"typeEntity": "Person",
-			"email": "famaladoss@ebi.ac.uk"
-		}
-	],
-	"biotoolsCURIE": "",
-	"elixirPlatform": [],
-	"elixirNode": [],
-	"version": [
-		"1"
-	],
-	"elixir_badge": 0,
-	"homepage": "https://github.com/EMBL-EBI-TSI/cpa-redis",
-	"function": [],
-	"lastUpdate": "2019-08-21T17:02:14Z",
-	"otherID": [{"teamName": "felix-test","config":"ostack config"}],
-	"description": "Reddis server in the Cloud.",
-	"toolType": [
-		"Workbench"
-	],
-	"editPermission": {
-		"type": "group",
-		"authors": []
-	},
-	"language": [
-		"PHP"
-	],
-	"link": [],
-	"biotoolsID": "ebi:redis",
-	"additionDate": "2019-08-21T09:00:15Z",
-	"name": "redis",
-	"license": null,
-	"documentation": [],
-	"maturity": "Mature",
-	"operatingSystem": [
-		"Linux"
-	]
-}, {
-		"collectionID": ["BioExcel", "Rare Disease"],
-		"accessibility": ["Open access"],
-		"topic": [{
-			"term": "Proteins",
-			"uri": "http://edamontology.org/topic_0078"
-		}, {
-			"term": "Bioinformatics",
-			"uri": "http://edamontology.org/topic_0091"
-		}, {
-			"term": "Function analysis",
-			"uri": "http://edamontology.org/topic_1775"
-		}, {
-			"term": "Molecular interactions, pathways and networks",
-			"uri": "http://edamontology.org/topic_0602"
-		}, {
-			"term": "Sequence analysis",
-			"uri": "http://edamontology.org/topic_0080"
-		}],
-		"owner": "ELIXIR-EE",
-		"cost": "Free of charge",
+		"collectionID": [
+			"BioExcel"
+		],
+		"accessibility": [],
+		"topic": [],
+		"owner": "famaladoss@ebi.ac.uk",
+		"cost": null,
 		"relation": [],
-		"download": [],
-		"validated": 0,
+		"download": [{
+			"url": "https://github.com/EMBL-EBI-TSI/cpa-instance",
+			"note": "BioExcel_ECP_Application;name:Generic server instance;teamName:team-football;config:openstack config",
+			"version": null,
+			"type": "VM image"
+		}],
+		"validated": 1,
 		"publication": [{
-			"doi": "10.1093/nar/gki491",
+			"doi": "",
 			"version": null,
-			"pmid": "15980463",
+			"pmid": "123444",
 			"type": "Primary",
-			"pmcid": "PMC1160251",
+			"pmcid": "23333",
 			"metadata": null
-		}, {
-			"doi": "10.1093/nar/gkp302",
-			"version": null,
-			"pmid": "19435877",
-			"type": "Primary",
-			"pmcid": "PMC2703973",
-			"metadata": null
-		}, {
-			"doi": "10.1093/nar/gkh405",
-			"version": null,
-			"pmid": "15215339",
-			"type": "Primary",
-			"pmcid": "PMC441543",
-			"metadata": null
-		}, {
-			"doi": "10.1093/nar/gkm291",
-			"version": null,
-			"pmid": "17576686",
-			"type": "Primary",
-			"pmcid": "PMC1933145",
-			"metadata": null
-		}, {
-			"doi": "10.1093/nar/gkt376",
-			"version": null,
-			"pmid": "23671338",
-			"type": "Primary",
-			"pmcid": "PMC3692137",
-			"metadata": null
-		}, {
-			"doi": "10.1093/nar/gkv1352",
-			"version": null,
-			"pmid": null,
-			"type": "Primary",
-			"pmcid": null,
-			"metadata": {
-				"title": "The European Bioinformatics Institute in 2016: Data growth and integration",
-				"abstract": "© The Author(s) 2015. New technologies are revolutionising biological research and its applications by making it easier and cheaper to generate ever-greater volumes and types of data. In response, the services and infrastructure of the European Bioinformatics Institute (EMBL-EBI, www.ebi.ac.UK) are continually expanding: total disk capacity increases significantly every year to keep pace with demand (75 petabytes as of December 2015), and interoperability between resources remains a strategic priority. Since 2014 we have launched two new resources: the European Variation Archive for genetic variation data and EMPIAR for two-dimensional electron microscopy data, as well as a Resource Description Framework platform. We also launched the Embassy Cloud service, which allows users to run large analyses in a virtual environment next to EMBL-EBI's vast public data resources.",
-				"citationCount": 57,
-				"authors": [{
-					"name": "Cook C.E."
-				}, {
-					"name": "Bergman M.T."
-				}, {
-					"name": "Finn R.D."
-				}, {
-					"name": "Cochrane G."
-				}, {
-					"name": "Birney E."
-				}, {
-					"name": "Apweiler R."
-				}],
-				"date": "2016-01-01T00:00:00Z",
-				"journal": "Nucleic Acids Research"
-			}
 		}],
 		"homepage_status": 0,
 		"credit": [{
-			"typeRole": ["Primary contact"],
-			"name": "EMBL - European Bioinformatics Institute",
+			"typeRole": [
+				"Developer"
+			],
+			"name": "Felix Xavier Amaladoss",
 			"url": null,
+			"note": null,
+			"orcidid": "",
+			"typeEntity": "Person",
+			"email": "famaladoss@ebi.ac.uk"
+		}],
+		"biotoolsCURIE": "",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": [
+			"1"
+		],
+		"elixir_badge": 0,
+		"homepage": "https://github.com/EMBL-EBI-TSI/cpa-instance",
+		"function": [],
+		"lastUpdate": "2019-08-15T17:02:14Z",
+		"otherID": [],
+		"description": "A generic server Portal app deployable in the Cloud.",
+		"toolType": [
+			"Workbench"
+		],
+		"editPermission": {
+			"type": "group",
+			"authors": []
+		},
+		"language": [
+			"PHP"
+		],
+		"link": [],
+		"biotoolsID": "ebi:generic_server_instance",
+		"additionDate": "2019-08-15T09:00:15Z",
+		"name": "Generic server instance",
+		"license": null,
+		"documentation": [],
+		"maturity": "Mature",
+		"operatingSystem": [
+			"Linux"
+		]
+	}, {
+		"collectionID": [
+			"BioExcel"
+		],
+		"accessibility": [],
+		"topic": [],
+		"owner": "famaladoss@ebi.ac.uk",
+		"cost": null,
+		"relation": [],
+		"download": [{
+			"url": "https://github.com/EMBL-EBI-TSI/cpa-redis",
+			"note": "BioExcel_ECP_Application;name:redis;teamName:team-football;config:ostack config",
+			"version": null,
+			"type": "VM image"
+		}],
+		"validated": 1,
+		"publication": [{
+			"doi": "",
+			"version": null,
+			"pmid": "123444",
+			"type": "Primary",
+			"pmcid": "23333",
+			"metadata": null
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": [
+				"Developer"
+			],
+			"name": "Felix Xavier Amaladoss",
+			"url": null,
+			"note": null,
+			"orcidid": "",
+			"typeEntity": "Person",
+			"email": "famaladoss@ebi.ac.uk"
+		}],
+		"biotoolsCURIE": "",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": [
+			"1"
+		],
+		"elixir_badge": 0,
+		"homepage": "https://github.com/EMBL-EBI-TSI/cpa-redis",
+		"function": [],
+		"lastUpdate": "2019-08-21T17:02:14Z",
+		"otherID": [],
+		"description": "Reddis server in the Cloud.",
+		"toolType": [
+			"Workbench"
+		],
+		"editPermission": {
+			"type": "group",
+			"authors": []
+		},
+		"language": [
+			"PHP"
+		],
+		"link": [],
+		"biotoolsID": "ebi:redis",
+		"additionDate": "2019-08-21T09:00:15Z",
+		"name": "redis",
+		"license": null,
+		"documentation": [],
+		"maturity": "Mature",
+		"operatingSystem": [
+			"Linux"
+		]
+	}, {
+		"collectionID": [
+			"BioExcel"
+		],
+		"accessibility": [
+
+		],
+		"topic": [{
+				"term": "Structure analysis",
+				"uri": "http://edamontology.org/topic_0081"
+			},
+			{
+				"term": "Molecular dynamics",
+				"uri": "http://edamontology.org/topic_0176"
+			}
+		],
+		"owner": "gelpi@ub.edu",
+		"cost": "Free of charge",
+		"relation": [
+
+		],
+		"download": [{
+				"url": "https://www.dropbox.com/s/uxgcm4rkm554d28/PyMDSetup-v2.qcow2?dl=1",
+				"note": "BioExcel_Embassy_VM",
+				"version": null,
+				"type": "VM image"
+			},
+			{
+				"url": "https://github.com/bioexcel/pymdsetup",
+				"note": "Repository to download the library",
+				"version": null,
+				"type": "Source code"
+			},
+			{
+				"url": "http://mmb.irbbarcelona.org/~andrio/PyMDSetup-v2.qcow2",
+				"note": "BioExcel_Embassy_NFS_Image",
+				"version": null,
+				"type": "VM image"
+			}
+		],
+		"validated": 1,
+		"publication": [
+
+		],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": [
+				"Primary contact"
+			],
+			"name": "Pau Andrio",
+			"url": "https://github.com/bioexcel/pymdsetup",
 			"note": null,
 			"orcidid": null,
 			"typeEntity": "Person",
-			"email": "www-prod@ebi.ac.uk"
+			"email": "pau.andrio@bsc.es"
 		}],
-		"biotoolsCURIE": "biotools:ebi_tools",
-		"elixirPlatform": [],
-		"elixirNode": [],
-		"version": [],
+		"biotoolsCURIE": "biotools:pymdsetup",
+		"elixirPlatform": [
+
+		],
+		"elixirNode": [
+
+		],
+		"version": [
+			"0.2 Alpha"
+		],
 		"elixir_badge": 0,
-		"homepage": "http://www.ebi.ac.uk/Tools/webservices/",
+		"homepage": "https://github.com/bioexcel/pymdsetup",
 		"function": [{
 			"note": null,
-			"input": [],
+			"input": [{
+				"data": {
+					"term": "Structure",
+					"uri": "http://edamontology.org/data_0883"
+				},
+				"format": [
+
+				]
+			}],
 			"operation": [{
-				"term": "Sequence similarity search",
-				"uri": "http://edamontology.org/operation_0346"
-			}, {
-				"term": "Data retrieval",
-				"uri": "http://edamontology.org/operation_2422"
-			}, {
-				"term": "Protein function analysis",
-				"uri": "http://edamontology.org/operation_2414"
-			}, {
-				"term": "Query and retrieval",
-				"uri": "http://edamontology.org/operation_0224"
-			}, {
-				"term": "Multiple sequence alignment",
-				"uri": "http://edamontology.org/operation_0492"
+				"term": "Molecular dynamics simulation",
+				"uri": "http://edamontology.org/operation_2476"
 			}],
 			"cmd": null,
-			"output": []
+			"output": [{
+				"data": {
+					"term": "Structure",
+					"uri": "http://edamontology.org/data_0883"
+				},
+				"format": [
+
+				]
+			}]
 		}],
-		"lastUpdate": "2019-06-06T08:50:51Z",
-		"otherID": [],
-		"description": "EBI Tools is a project that aims to provide programmatic access to the various databases and retrieval and analysis services that the European Bioinformatics Institute (EBI) provides through Simple Object Access Protocol (SOAP) and other related web service technologies. Example tools include those to compute sequence similarity searches, pairwise/multiple sequence alignment and protein functional analysis.",
-		"toolType": ["Web API", "Web application", "Web service"],
+		"lastUpdate": "2018-12-10T12:59:01Z",
+		"otherID": [
+
+		],
+		"description": "Python package to setup and run molecular dynamics simulations.",
+		"toolType": [
+			"Command-line tool",
+			"Library",
+			"Workflow",
+			"Suite"
+		],
 		"editPermission": {
 			"type": "group",
-			"authors": ["biomadeira"]
+			"authors": [
+				"gelpi@ub.edu",
+				"jdianes"
+			]
 		},
-		"language": ["Java", "Perl"],
-		"link": [],
-		"biotoolsID": "ebi_tools",
-		"additionDate": "2017-03-24T11:31:31Z",
-		"name": "EBI Tools",
+		"language": [
+			"Python"
+		],
+		"link": [{
+			"url": "https://github.com/bioexcel/pymdsetup",
+			"note": "PyMDSetup github repo",
+			"type": "Repository"
+		}],
+		"biotoolsID": "pymdsetup",
+		"additionDate": "2017-11-17T16:39:38Z",
+		"name": "PyMDSetup",
 		"license": null,
 		"documentation": [{
-			"url": "https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Job+Dispatcher+Sequence+Analysis+Tools+Home#JobDispatcherSequenceAnalysisToolsHome-Usage",
-			"note": null,
-			"type": "General"
-		}],
-		"maturity": "Mature",
-		"operatingSystem": ["Linux", "Windows", "Mac"]
+				"url": "https://github.com/bioexcel/pymdsetup/blob/master/README.md",
+				"note": null,
+				"type": "General"
+			},
+			{
+				"url": "http://pymdsetup.readthedocs.io/en/latest/modules.html",
+				"note": null,
+				"type": "API documentation"
+			}
+		],
+		"maturity": "Emerging",
+		"operatingSystem": [
+			"Linux"
+		]
 	}, {
 		"collectionID": ["BioExcel", "ms-utils"],
 		"accessibility": [],
@@ -413,206 +405,161 @@
 		"maturity": "Mature",
 		"operatingSystem": ["Linux", "Windows", "Mac"]
 	}, {
-		"collectionID": ["BioExcel", "IRB-BSC", "ELIXIR-ES", "MuG"],
-		"accessibility": [],
+		"collectionID": [
+			"BioExcel"
+		],
+		"accessibility": [
+
+		],
 		"topic": [{
-			"term": "Nucleic acids",
-			"uri": "http://edamontology.org/topic_0077"
-		}, {
-			"term": "DNA",
-			"uri": "http://edamontology.org/topic_0654"
-		}, {
-			"term": "Simulation experiment",
-			"uri": "http://edamontology.org/topic_3524"
-		}],
-		"owner": "gelpi@ub.edu",
-		"cost": "Free of charge (with restrictions)",
-		"relation": [],
+				"term": "Biophysics",
+				"uri": "http://edamontology.org/topic_3306"
+			},
+			{
+				"term": "Nucleic acid structure analysis",
+				"uri": "http://edamontology.org/topic_0097"
+			},
+			{
+				"term": "Nucleic acids",
+				"uri": "http://edamontology.org/topic_0077"
+			}
+		],
+		"owner": "adam.hospital@irbbarcelona.org",
+		"cost": null,
+		"relation": [
+
+		],
 		"download": [{
-			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php?id=BNSdownload",
-			"note": null,
-			"version": null,
-			"type": "Source code"
-		}, {
-			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php?id=BNSdownload",
-			"note": null,
-			"version": null,
-			"type": "Binaries"
-		}],
-		"validated": 0,
+				"url": "https://www.dropbox.com/s/w8e09wqs92l0g9r/ChromatineDynamicsNAflex_ON.qcow2?dl=1",
+				"note": "BioExcel_Embassy_VM",
+				"version": null,
+				"type": "VM image"
+			},
+			{
+				"url": "http://inb.bsc.es/MuGimages/ChromatineDynamicsNAflex_ON.qcow2",
+				"note": "BioExcel_Embassy_NFS_Image",
+				"version": null,
+				"type": "VM image"
+			}
+		],
+		"validated": 1,
 		"publication": [{
-			"doi": "10.1093/nar/gkv1301",
+			"doi": "10.1093/nar/gkt378",
 			"version": null,
 			"pmid": null,
 			"type": "Primary",
 			"pmcid": null,
 			"metadata": {
-				"title": "BIGNASim: A NoSQL database structure and analysis portal for nucleic acids simulation data",
-				"abstract": "© The Author(s) 2015. Molecular dynamics simulation (MD) is, just behind genomics, the bioinformatics tool that generates the largest amounts of data, and that is using the largest amount of CPU time in supercomputing centres. MD trajectories are obtained after months of calculations, analysed in situ, and in practice forgotten. Several projects to generate stable trajectory databases have been developed for proteins, but no equivalence exists in the nucleic acids world. We present here a novel database system to store MD trajectories and analyses of nucleic acids. The initial data set available consists mainly of the benchmark of the new molecular dynamics force-field, parmBSC1. It contains 156 simulations, with over 120 μs of total simulation time. A deposition protocol is available to accept the submission of new trajectory data. The database is based on the combination of two NoSQL engines, Cassandra for storing trajectories and MongoDB to store analysis results and simulation metadata. The analyses available include backbone geometries, helical analysis, NMR observables and a variety of mechanical analyses. Individual trajectories and combined meta-trajectories can be downloaded from the portal. The system is accessible through http://mmb.irbbarcelona.org/BIGNASim/. Supplementary Material is also available on-line at http://mmb. irbbarcelona.org/BIGNASim/SuppMaterial/.",
+				"title": "NAFlex: a web server for the study of nucleic acid flexibility.",
+				"abstract": "We present NAFlex, a new web tool to study the flexibility of nucleic acids, either isolated or bound to other molecules. The server allows the user to incorporate structures from protein data banks, completing gaps and removing structural inconsistencies. It is also possible to define canonical (average or sequence-adapted) nucleic acid structures using a variety of predefined internal libraries, as well to create specific nucleic acid conformations from the sequence. The server offers a variety of methods to explore nucleic acid flexibility, such as a colorless wormlike-chain model, a base-pair resolution mesoscopic model and atomistic molecular dynamics simulations with a wide variety of protocols and force fields. The trajectories obtained by simulations, or imported externally, can be visualized and analyzed using a large number of tools, including standard Cartesian analysis, essential dynamics, helical analysis, local and global stiffness, energy decomposition, principal components and in silico NMR spectra. The server is accessible free of charge from the mmb.irbbarcelona.org/NAFlex webpage.",
 				"citationCount": 13,
 				"authors": [{
-					"name": "Hospital A."
-				}, {
-					"name": "Andrio P."
-				}, {
-					"name": "Cugnasco C."
-				}, {
-					"name": "Codo L."
-				}, {
-					"name": "Becerra Y."
-				}, {
-					"name": "Dans P.D."
-				}, {
-					"name": "Battistini F."
-				}, {
-					"name": "Torres J."
-				}, {
-					"name": "Goni R."
-				}, {
-					"name": "Orozco M."
-				}, {
-					"name": "Gelpy J.Ll."
-				}],
-				"date": "2016-01-01T00:00:00Z",
-				"journal": "Nucleic Acids Research"
+						"name": "Hospital A."
+					},
+					{
+						"name": "Faustino I."
+					},
+					{
+						"name": "Collepardo-Guevara R."
+					},
+					{
+						"name": "Gonzalez C."
+					},
+					{
+						"name": "Gelpi J.L."
+					},
+					{
+						"name": "Orozco M."
+					}
+				],
+				"date": "2013-01-01T00:00:00Z",
+				"journal": "Nucleic acids research"
 			}
 		}],
 		"homepage_status": 0,
 		"credit": [{
-			"typeRole": ["Developer"],
-			"name": "Cesare Cugnasco",
-			"url": null,
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Person",
-			"email": null
-		}, {
-			"typeRole": ["Developer"],
-			"name": "Pau Andrio",
-			"url": null,
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Person",
-			"email": null
-		}, {
-			"typeRole": ["Developer"],
-			"name": "Adam Hospital",
-			"url": null,
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Person",
-			"email": null
-		}, {
-			"typeRole": ["Developer"],
-			"name": "Laia Codó",
-			"url": null,
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Person",
-			"email": null
-		}, {
-			"typeRole": ["Provider"],
-			"name": "University of Barcelona",
-			"url": null,
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Institute",
-			"email": null
-		}, {
-			"typeRole": ["Provider"],
-			"name": "Barcelona Supercomputing Center",
-			"url": null,
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Institute",
-			"email": null
-		}, {
-			"typeRole": ["Provider"],
-			"name": "Institute of Research In Biomedicine - Barcelona",
-			"url": null,
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Institute",
-			"email": null
-		}, {
-			"typeRole": ["Provider"],
-			"name": "Technic University of Catalonia",
-			"url": null,
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Institute",
-			"email": null
-		}, {
-			"typeRole": ["Primary contact"],
-			"name": "Adam Hospital",
+			"typeRole": [
+				"Primary contact"
+			],
+			"name": null,
 			"url": null,
 			"note": null,
 			"orcidid": null,
 			"typeEntity": "Person",
 			"email": "adam.hospital@irbbarcelona.org"
-		}, {
-			"typeRole": ["Primary contact"],
-			"name": null,
-			"url": "http://mmb.irbbarcelona.org/",
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Person",
-			"email": "modesto@mmb.pcb.ub.es"
 		}],
-		"biotoolsCURIE": "biotools:bignasim",
-		"elixirPlatform": [],
-		"elixirNode": [],
-		"version": [],
+		"biotoolsCURIE": "biotools:chromatin_dynamics",
+		"elixirPlatform": [
+
+		],
+		"elixirNode": [
+
+		],
+		"version": [
+
+		],
 		"elixir_badge": 0,
-		"homepage": "http://mmb.irbbarcelona.org/BIGNASim/",
+		"homepage": "http://mmb.irbbarcelona.org/www/",
 		"function": [{
 			"note": null,
-			"input": [],
+			"input": [{
+				"data": {
+					"term": "Nucleic acid sequence",
+					"uri": "http://edamontology.org/data_2977"
+				},
+				"format": [{
+					"term": "dna",
+					"uri": "http://edamontology.org/format_1212"
+				}]
+			}],
 			"operation": [{
 				"term": "Modelling and simulation",
 				"uri": "http://edamontology.org/operation_2426"
 			}],
 			"cmd": null,
-			"output": []
-		}, {
-			"note": null,
-			"input": [],
-			"operation": [{
-				"term": "Database search",
-				"uri": "http://edamontology.org/operation_2421"
-			}],
-			"cmd": null,
-			"output": []
+			"output": [{
+				"data": {
+					"term": "Sequence",
+					"uri": "http://edamontology.org/data_2044"
+				},
+				"format": [{
+					"term": "Tertiary structure format",
+					"uri": "http://edamontology.org/format_2033"
+				}]
+			}]
 		}],
-		"lastUpdate": "2019-02-26T14:54:36Z",
-		"otherID": [],
-		"description": "Comprehensive platform including a database system and an analysis portal, aimed to be a general database for handling nucleic acids simulations.",
-		"toolType": ["Database portal", "Workbench"],
+		"lastUpdate": "2018-12-10T12:58:59Z",
+		"otherID": [
+
+		],
+		"description": "Chromatin Dynamics tool\nMultiscale Complex Genomics (MuG) VM",
+		"toolType": [
+			"Command-line tool"
+		],
 		"editPermission": {
-			"type": "private",
-			"authors": []
+			"type": "group",
+			"authors": [
+				"gelpi@ub.edu",
+				"jdianes"
+			]
 		},
-		"language": ["PHP", "JavaScript", "Perl", "Python"],
-		"link": [{
-			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php?id=BNSdownload",
-			"note": null,
-			"type": "Repository"
-		}],
-		"biotoolsID": "bignasim",
-		"additionDate": "2016-04-07T08:58:25Z",
-		"name": "BigNASim",
+		"language": [
+			"C"
+		],
+		"link": [
+
+		],
+		"biotoolsID": "chromatin_dynamics",
+		"additionDate": "2018-02-01T18:21:02Z",
+		"name": "Chromatin Dynamics",
 		"license": null,
-		"documentation": [{
-			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php?id=references",
-			"note": null,
-			"type": "Citation instructions"
-		}, {
-			"url": "http://mmb.irbbarcelona.org/BigNASim/help.php",
-			"note": null,
-			"type": "Manual"
-		}],
-		"maturity": "Mature",
-		"operatingSystem": ["Linux"]
+		"documentation": [
+
+		],
+		"maturity": "Emerging",
+		"operatingSystem": [
+			"Linux"
+		]
 	}, {
 		"collectionID": ["BioExcel"],
 		"accessibility": [],
@@ -1478,117 +1425,261 @@
 		"maturity": "Mature",
 		"operatingSystem": ["Linux"]
 	}, {
-		"collectionID": ["BioExcel", "IRB-BSC", "ELIXIR-ES"],
-		"accessibility": [],
+		"collectionID": [
+			"BioExcel"
+		],
+		"accessibility": [
+
+		],
 		"topic": [{
-			"term": "Molecular dynamics",
-			"uri": "http://edamontology.org/topic_0176"
+			"term": "Software engineering",
+			"uri": "http://edamontology.org/topic_3372"
 		}],
 		"owner": "jdianes",
 		"cost": "Free of charge",
-		"relation": [],
-		"download": [],
+		"relation": [
+
+		],
+		"download": [{
+				"url": "http://mmb.irbbarcelona.org/~andrio/PyMDSetup-v2.qcow2",
+				"note": "BioExcel_Embassy_VM",
+				"version": null,
+				"type": "VM image"
+			},
+			{
+				"url": "https://www.bsc.es/research-and-development/software-and-apps/software-list/comp-superscalar/downloads",
+				"note": null,
+				"version": null,
+				"type": "Source package"
+			}
+		],
 		"validated": 1,
 		"publication": [{
-			"doi": "10.1093/bioinformatics/btp304",
-			"version": null,
-			"pmid": null,
-			"type": "Primary",
-			"pmcid": null,
-			"metadata": {
-				"title": "FlexServ: An integrated tool for the analysis of protein flexibility",
-				"abstract": "Summary: FlexServ is a web-based tool for the analysis of protein flexibility. The server incorporates powerful protocols for the coarse-grained determination of protein dynamics using different versions of Normal Mode Analysis (NMA), Brownian dynamics (BD) and Discrete Dynamics (DMD). It can also analyze user provided trajectories. The server allows a complete analysis of flexibility using a large variety of metrics, including basic geometrical analysis, B-factors, essential dynamics, stiffness analysis, collectivity measures, Lindemann's indexes, residue correlation, chain-correlations, dynamic domain determination, hinge point detections, etc. Data is presented through a web interface as plain text, 2D and 3D graphics. © The Author 2009. Published by Oxford University Press. All rights reserved.",
-				"citationCount": 53,
-				"authors": [{
-					"name": "Camps J."
-				}, {
-					"name": "Carrillo O."
-				}, {
-					"name": "Emperador A."
-				}, {
-					"name": "Orellana L."
-				}, {
-					"name": "Hospital A."
-				}, {
-					"name": "Rueda M."
-				}, {
-					"name": "Cicin-Sain D."
-				}, {
-					"name": "D'Abramo M."
-				}, {
-					"name": "Gelpi J.L."
-				}, {
-					"name": "Orozco M."
-				}],
-				"date": "2009-06-29T00:00:00Z",
-				"journal": "Bioinformatics"
+				"doi": "10.1016/j.softx.2015.10.004",
+				"version": null,
+				"pmid": null,
+				"type": "Primary",
+				"pmcid": null,
+				"metadata": {
+					"title": "COMP Superscalar, an interoperable programming framework",
+					"abstract": "© 2015 The Authors.COMPSs is a programming framework that aims to facilitate the parallelization of existing applications written in Java, C/C++ and Python scripts. For that purpose, it offers a simple programming model based on sequential development in which the user is mainly responsible for (i) identifying the functions to be executed as asynchronous parallel tasks and (ii) annotating them with annotations or standard Python decorators. A runtime system is in charge of exploiting the inherent concurrency of the code, automatically detecting and enforcing the data dependencies between tasks and spawning these tasks to the available resources, which can be nodes in a cluster, clouds or grids. In cloud environments, COMPSs provides scalability and elasticity features allowing the dynamic provision of resources.",
+					"citationCount": 10,
+					"authors": [{
+							"name": "Badia R.M."
+						},
+						{
+							"name": "Conejero J."
+						},
+						{
+							"name": "Diaz C."
+						},
+						{
+							"name": "Ejarque J."
+						},
+						{
+							"name": "Lezzi D."
+						},
+						{
+							"name": "Lordan F."
+						},
+						{
+							"name": "Ramon-Cortes C."
+						},
+						{
+							"name": "Sirvent R."
+						}
+					],
+					"date": "2015-12-01T00:00:00Z",
+					"journal": "SoftwareX"
+				}
+			},
+			{
+				"doi": "10.1007/s10723-013-9272-5",
+				"version": null,
+				"pmid": null,
+				"type": null,
+				"pmcid": null,
+				"metadata": {
+					"title": "ServiceSs: An Interoperable Programming Framework for the Cloud",
+					"abstract": "The rise of virtualized and distributed infrastructures has led to new challenges to accomplish the effective use of compute resources through the design and orchestration of distributed applications. As legacy, monolithic applications are replaced with service-oriented applications, questions arise about the steps to be taken in order to maximize the usefulness of the infrastructures and to provide users with tools for the development and execution of distributed applications. One of the issues to be solved is the existence of multiple cloud solutions that are not interoperable, which forces the user to be locked to a specific provider or to continuously adapt applications. With the objective of simplifying the programmers challenges, ServiceSs provides a straightforward programming model and an execution framework that helps on abstracting applications from the actual execution environment. This paper presents how ServiceSs transparently interoperates with multiple providers implementing the appropriate interfaces to execute scientific applications on federated clouds. © 2013 Springer Science+Business Media Dordrecht.",
+					"citationCount": 35,
+					"authors": [{
+							"name": "Lordan F."
+						},
+						{
+							"name": "Tejedor E."
+						},
+						{
+							"name": "Ejarque J."
+						},
+						{
+							"name": "Rafanell R."
+						},
+						{
+							"name": "Alvarez J."
+						},
+						{
+							"name": "Marozzo F."
+						},
+						{
+							"name": "Lezzi D."
+						},
+						{
+							"name": "Sirvent R."
+						},
+						{
+							"name": "Talia D."
+						},
+						{
+							"name": "Badia R.M."
+						}
+					],
+					"date": "2014-01-01T00:00:00Z",
+					"journal": "Journal of Grid Computing"
+				}
+			},
+			{
+				"doi": "10.1177/1094342015594678",
+				"version": null,
+				"pmid": null,
+				"type": null,
+				"pmcid": null,
+				"metadata": {
+					"title": "PyCOMPSs: Parallel computational workflows in Python",
+					"abstract": "© The Author(s) 2015.The use of the Python programming language for scientific computing has been gaining momentum in the last years. The fact that it is compact and readable and its complete set of scientific libraries are two important characteristics that favour its adoption. Nevertheless, Python still lacks a solution for easily parallelizing generic scripts on distributed infrastructures, since the current alternatives mostly require the use of APIs for message passing or are restricted to embarrassingly parallel computations. In that sense, this paper presents PyCOMPSs, a framework that facilitates the development of parallel computational workflows in Python. In this approach, the user programs her script in a sequential fashion and decorates the functions to be run as asynchronous parallel tasks. A runtime system is in charge of exploiting the inherent concurrency of the script, detecting the data dependencies between tasks and spawning them to the available resources. Furthermore, we show how this programming model can be built on top of a Big Data storage architecture, where the data stored in the backend is abstracted and accessed from the application in the form of persistent objects.",
+					"citationCount": 7,
+					"authors": [{
+							"name": "Tejedor E."
+						},
+						{
+							"name": "Becerra Y."
+						},
+						{
+							"name": "Alomar G."
+						},
+						{
+							"name": "Queralt A."
+						},
+						{
+							"name": "Badia R.M."
+						},
+						{
+							"name": "Torres J."
+						},
+						{
+							"name": "Cortes T."
+						},
+						{
+							"name": "Labarta J."
+						}
+					],
+					"date": "2017-01-01T00:00:00Z",
+					"journal": "International Journal of High Performance Computing Applications"
+				}
 			}
-		}],
+		],
 		"homepage_status": 0,
 		"credit": [{
-			"typeRole": ["Primary contact"],
-			"name": "Institute for Research in Biomedicine Barcelona",
-			"url": null,
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Person",
-			"email": "adam.hospital@irbbarcelona.org"
-		}],
-		"biotoolsCURIE": "biotools:flexserv",
-		"elixirPlatform": [],
-		"elixirNode": [],
-		"version": ["1.0"],
+				"typeRole": [
+					"Primary contact"
+				],
+				"name": "Jorge Ejarque - Barcelona Supercomputing Center",
+				"url": null,
+				"note": null,
+				"orcidid": null,
+				"typeEntity": "Person",
+				"email": "jorge.ejarque@bsc.es"
+			},
+			{
+				"typeRole": [
+					"Primary contact"
+				],
+				"name": "Rosa M. Badia  - Barcelona Supercomputing Center",
+				"url": null,
+				"note": null,
+				"orcidid": null,
+				"typeEntity": "Person",
+				"email": "rosa.m.badia@bsc.es"
+			}
+		],
+		"biotoolsCURIE": "biotools:compss",
+		"elixirPlatform": [
+
+		],
+		"elixirNode": [
+
+		],
+		"version": [
+			"2.2"
+		],
 		"elixir_badge": 0,
-		"homepage": "http://mmb.irbbarcelona.org/FlexServ",
+		"homepage": "https://www.bsc.es/research-and-development/software-and-apps/software-list/comp-superscalar",
 		"function": [{
 			"note": null,
 			"input": [{
 				"data": {
-					"term": "Protein structure",
-					"uri": "http://edamontology.org/data_1460"
+					"term": "Workflow metadata",
+					"uri": "http://edamontology.org/data_0949"
 				},
-				"format": [{
-					"term": "PDB",
-					"uri": "http://edamontology.org/format_1476"
-				}]
+				"format": [
+
+				]
 			}],
 			"operation": [{
-				"term": "Protein flexibility and motion analysis",
-				"uri": "http://edamontology.org/operation_0244"
+				"term": "Service management",
+				"uri": "http://edamontology.org/operation_3760"
 			}],
 			"cmd": null,
-			"output": [{
-				"data": {
-					"term": "Report",
-					"uri": "http://edamontology.org/data_2048"
-				},
-				"format": [{
-					"term": "Textual format",
-					"uri": "http://edamontology.org/format_2330"
-				}]
-			}]
+			"output": [
+
+			]
 		}],
-		"lastUpdate": "2018-12-10T14:49:22Z",
-		"otherID": [],
-		"description": "Web portal offering a complete set of macromolecular  flexibility analyses from a coarse-grained or atomistic MD trajectory",
-		"toolType": ["Web application"],
+		"lastUpdate": "2018-12-10T12:58:49Z",
+		"otherID": [
+
+		],
+		"description": "Sequential programming model\nGeneral purpose programming languages + annotations/hints\nExploitation of implicit parallelism\nAutomatic on-the-fly creation of a \ntask dependency graph\nCOMPSs workflows portable to HPC and Cloud without change",
+		"toolType": [
+			"Workbench"
+		],
 		"editPermission": {
 			"type": "group",
-			"authors": ["adam.hospital@irbbarcelona.org", "gelpi@ub.edu"]
+			"authors": [
+				"adam.hospital@irbbarcelona.org",
+				"gelpi@ub.edu"
+			]
 		},
-		"language": ["PHP"],
-		"link": [],
-		"biotoolsID": "flexserv",
+		"language": [
+			"Java",
+			"Python"
+		],
+		"link": [
+
+		],
+		"biotoolsID": "compss",
 		"additionDate": "2016-10-03T14:08:36Z",
-		"name": "FlexServ",
-		"license": null,
+		"name": "COMPSs",
+		"license": "Apache-2.0",
 		"documentation": [{
-			"url": "http://mmb.irbbarcelona.org/FlexServ/",
-			"note": null,
-			"type": "General"
-		}],
+				"url": "https://www.bsc.es/research-and-development/software-and-apps/software-list/comp-superscalar/documentation",
+				"note": null,
+				"type": "General"
+			},
+			{
+				"url": "http://compss.bsc.es/releases/compss/latest/docs/COMPSs_Installation_Manual.pdf",
+				"note": null,
+				"type": "Manual"
+			},
+			{
+				"url": "http://compss.bsc.es/releases/tutorials/latest-tutorial.pdf",
+				"note": null,
+				"type": "Training material"
+			}
+		],
 		"maturity": "Mature",
-		"operatingSystem": ["Linux", "Windows", "Mac"]
+		"operatingSystem": [
+			"Linux"
+		]
 	}],
 	"next": "?page=2"
 }
