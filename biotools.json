@@ -11,6 +11,74 @@
 		"cost": null,
 		"relation": [],
 		"download": [{
+			"url": "https://github.com/EMBL-EBI-TSI/cpa-bioexcel-cwl",
+			"note": "BioExcel_ECP_Application;name:CWL VM environment;teamName:BioExcel Embassy DEV;config:CWL NFS",
+			"version": null,
+			"type": "VM image"
+		}],
+		"validated": 1,
+		"publication": [{
+			"doi": "",
+			"version": null,
+			"pmid": "0",
+			"type": "Primary",
+			"pmcid": "0",
+			"metadata": null
+		}],
+		"homepage_status": 0,
+		"credit": [{
+			"typeRole": [
+				"Developer"
+			],
+			"name": "Felix Xavier Amaladoss",
+			"url": null,
+			"note": null,
+			"orcidid": "",
+			"typeEntity": "Person",
+			"email": "famaladoss@ebi.ac.uk"
+		}],
+		"biotoolsCURIE": "",
+		"elixirPlatform": [],
+		"elixirNode": [],
+		"version": [
+			"1"
+		],
+		"elixir_badge": 0,
+		"homepage": "https://github.com/EMBL-EBI-TSI/cpa-bioexcel-cwl",
+		"function": [],
+		"lastUpdate": "2019-09-18T14:45:14Z",
+		"otherID": [],
+		"description": "Cloud Portal Bioexcel application to create CWL VM environment.",
+		"toolType": [
+			"Workbench"
+		],
+		"editPermission": {
+			"type": "group",
+			"authors": []
+		},
+		"language": [
+			"PHP"
+		],
+		"link": [],
+		"biotoolsID": "ebi:cwl_vm_environment",
+		"additionDate": "2019-09-18T14:45:14Z",
+		"name": "CWL VM environment",
+		"license": null,
+		"documentation": [],
+		"maturity": "Mature",
+		"operatingSystem": [
+			"Linux"
+		]
+	},{
+		"collectionID": [
+			"BioExcel"
+		],
+		"accessibility": [],
+		"topic": [],
+		"owner": "famaladoss@ebi.ac.uk",
+		"cost": null,
+		"relation": [],
+		"download": [{
 			"url": "https://github.com/EMBL-EBI-TSI/cpa-instance",
 			"note": "BioExcel_ECP_Application;name:Generic server instance;teamName:team-football;config:openstack config",
 			"version": null,
