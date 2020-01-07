@@ -628,144 +628,74 @@
 		"operatingSystem": [
 			"Linux"
 		]
-	}, {
-		"collectionID": ["BioExcel"],
+	},{
+		"collectionID": [
+			"BioExcel"
+		],
 		"accessibility": [],
-		"topic": [{
-			"term": "Molecular dynamics",
-			"uri": "http://edamontology.org/topic_0176"
-		}, {
-			"term": "Computational chemistry",
-			"uri": "http://edamontology.org/topic_3332"
-		}],
-		"owner": "jdianes",
-		"cost": "Free of charge (with restrictions)",
+		"topic": [],
+		"owner": "famaladoss@ebi.ac.uk",
+		"cost": null,
 		"relation": [],
 		"download": [{
-			"url": "http://www.fz-juelich.de/ias/jsc/EN/Expertise/Support/Software/Chemistry/CPMD.html",
-			"note": null,
+			"url": "https://github.com/EMBL-EBI-TSI/cpa-bioexcel-cwl",
+			"note": "BioExcel_ECP_Application;name:Jupyter Server Instance;teamName:BioExcel Embassy DEV;config:Protein MD",
 			"version": null,
 			"type": "VM image"
 		}],
-		"validated": 0,
+		"validated": 1,
 		"publication": [{
-			"doi": "10.1016/S0167-8191(00)00014-4",
+			"doi": "",
 			"version": null,
-			"pmid": null,
+			"pmid": "0",
 			"type": "Primary",
-			"pmcid": null,
-			"metadata": {
-				"title": "New advances in chemistry and materials science with CPMD and parallel computing",
-				"abstract": "The density functional theory and molecular dynamics (DFT-MD) method and of a CMPD parallel code is presented based on a plane wave scheme. Its power is shown through the survey of specific applications to diverse frontier areas of chemistry and materials science that make use of parallel computing.",
-				"citationCount": 114,
-				"authors": [{
-					"name": "Andreoni W."
-				}, {
-					"name": "Curioni A."
-				}],
-				"date": "2000-01-01T00:00:00Z",
-				"journal": "Parallel Computing"
-			}
+			"pmcid": "0",
+			"metadata": null
 		}],
 		"homepage_status": 0,
 		"credit": [{
-			"typeRole": ["Primary contact"],
-			"name": "CPMD contact",
-			"url": "http://cpmd.org/contact-info",
+			"typeRole": [
+				"Developer"
+			],
+			"name": "Felix Xavier Amaladoss",
+			"url": null,
 			"note": null,
-			"orcidid": null,
+			"orcidid": "",
 			"typeEntity": "Person",
-			"email": "e.ippoliti@fz-juelich.de"
-		}, {
-			"typeRole": ["Primary contact"],
-			"name": "Emiliano Ippoliti",
-			"url": "http://www.fz-juelich.de/SharedDocs/Personen/IAS/IAS-5/EN/Staff/Ippoliti.html?nn=1166568",
-			"note": null,
-			"orcidid": null,
-			"typeEntity": "Person",
-			"email": null
+			"email": "famaladoss@ebi.ac.uk"
 		}],
-		"biotoolsCURIE": "biotools:cpmd",
+		"biotoolsCURIE": "",
 		"elixirPlatform": [],
 		"elixirNode": [],
-		"version": [],
+		"version": [
+			"1"
+		],
 		"elixir_badge": 0,
-		"homepage": "http://www.cpmd.org/",
-		"function": [{
-			"note": null,
-			"input": [{
-				"data": {
-					"term": "Small molecule structure",
-					"uri": "http://edamontology.org/data_1463"
-				},
-				"format": []
-			}, {
-				"data": {
-					"term": "Structure",
-					"uri": "http://edamontology.org/data_0883"
-				},
-				"format": []
-			}],
-			"operation": [{
-				"term": "Protein property calculation",
-				"uri": "http://edamontology.org/operation_0250"
-			}],
-			"cmd": null,
-			"output": [{
-				"data": {
-					"term": "Structure",
-					"uri": "http://edamontology.org/data_0883"
-				},
-				"format": []
-			}, {
-				"data": {
-					"term": "Small molecule structure",
-					"uri": "http://edamontology.org/data_1463"
-				},
-				"format": []
-			}]
-		}],
-		"lastUpdate": "2019-02-17T18:40:00Z",
+		"homepage": "https://github.com/EMBL-EBI-TSI/jupyter-ecp/",
+		"function": [],
+		"lastUpdate": "2020-01-07T14:45:14Z",
 		"otherID": [],
-		"description": "Parallelized plane wave/pseudopotential implementation of Density Functional Theory, particularly designed for ab-initio molecular dynamics.",
-		"toolType": ["Command-line tool", "Workflow"],
+		"description": "Cloud Portal application to create VM and install jupyter server on it.",
+		"toolType": [
+			"Workbench"
+		],
 		"editPermission": {
 			"type": "group",
-			"authors": ["adam.hospital@irbbarcelona.org", "gelpi@ub.edu"]
+			"authors": []
 		},
-		"language": ["Fortran"],
-		"link": [{
-			"url": "http://cpmd.org/documentation/mailing-list",
-			"note": null,
-			"type": "Mailing list"
-		}],
-		"biotoolsID": "cpmd",
-		"additionDate": "2016-10-03T14:08:36Z",
-		"name": "CPMD",
+		"language": [
+			"PHP"
+		],
+		"link": [],
+		"biotoolsID": "ebi:jupyter_vm_environment",
+		"additionDate": "2020-01-07T14:45:14Z",
+		"name": "Jupyter Server Instance - Protein MD",
 		"license": null,
-		"documentation": [{
-			"url": "http://cpmd.org/documentation",
-			"note": null,
-			"type": "General"
-		}, {
-			"url": "http://cpmd.org/documentation",
-			"note": null,
-			"type": "Training material"
-		}, {
-			"url": "http://cpmd.org/downloadable-files/no-authentication/manual_v4_0_1.pdf",
-			"note": null,
-			"type": "Manual"
-		}, {
-			"url": "http://cpmd.org/documentation/cpmd-html-manual",
-			"note": "HTML version of manual.",
-			"type": "Manual"
-		}, {
-			"url": "http://cpmd.org/cpmd-tutorial",
-			"note": null,
-			"type": "Tutorial"
-		}],
+		"documentation": [],
 		"maturity": "Mature",
-		"operatingSystem": ["Linux"]
+		"operatingSystem": [
+			"Linux"
+		]
 	}, {
 		"collectionID": ["BioExcel"],
 		"accessibility": ["Open access"],
