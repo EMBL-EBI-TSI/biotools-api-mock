@@ -1,7 +1,101 @@
 {
 	"count": 32,
 	"previous": null,
-	"list": [{
+	"list": [
+		{
+	  "collectionID": [
+        "BioExcel"
+      ],
+      "accessibility": [],
+      "topic": [],
+      "owner": "aniewielska",
+      "cost": null,
+      "relation": [],
+      "download": [
+        {
+          "url": "https://gke.mybinder.org/v2/gh/bioexcel/biobb_wf_md_setup/master?filepath=biobb_wf_md_setup%2Fnotebooks%2Fbiobb_MDsetup_tutorial.ipynb",
+          "note": "BioExcel_Binder_Application;name:;teamName:;config:",
+          "version": null,
+          "type": "VM image"
+        }
+      ],
+      "validated": 0,
+      "publication": [],
+      "homepage_status": 0,
+      "credit": [],
+      "biotoolsCURIE": "biotools:Tutorial_MD_Setup_binder",
+      "elixirPlatform": [],
+      "elixirNode": [],
+      "version": [],
+      "elixir_badge": 0,
+      "homepage": "https://github.com/bioexcel/biobb_wf_md_setup",
+      "function": [],
+      "lastUpdate": "2020-02-11T17:38:08.209235Z",
+      "otherID": [],
+      "description": "Protein MD Setup tutorial using BioExcel Building Blocks - a Jupyter Notebook tutorial on binder environment.",
+      "toolType": ["Workbench","Notebook"],
+      "editPermission": {
+        "type": "private",
+        "authors": []
+      },
+      "language": [],
+      "link": [],
+      "biotoolsID": "Tutorial_MD_Setup_binder",
+      "additionDate": "2020-03-18T17:37:59Z",
+      "name": "Tutorial: MD Setup - binder",
+      "license": null,
+      "documentation": [],
+      "maturity": null,
+      "confidence_flag": null,
+      "operatingSystem": []
+    },
+		{
+	"collectionID": [
+	"BioExcel"
+	],
+	"accessibility": [],
+	"topic": [],
+	"owner": "aniewielska",
+	"cost": null,
+	"relation": [],
+	"download": [
+	{
+	  "url": "https://mybinder.org",
+	  "note": "BioExcel_ECP_Application;name:Jupyter Server Instance;teamName:BioExcel Embassy;config:Jupyter biobb_wf_md_setup;binder:true",
+	  "version": null,
+	  "type": "VM image"
+	}
+	],
+	"validated": 0,
+	"publication": [],
+	"homepage_status": 0,
+	"credit": [],
+	"biotoolsCURIE": "biotools:Tutorial_MD_Setup_portal_binder",
+	"elixirPlatform": [],
+	"elixirNode": [],
+	"version": [],
+	"elixir_badge": 0,
+	"homepage": "https://github.com/bioexcel/biobb_wf_md_setup",
+	"function": [],
+	"lastUpdate": "2020-03-18T17:38:08.209235Z",
+	"otherID": [],
+	"description": "Protein MD Setup tutorial using BioExcel Building Blocks - a Jupyter Notebook tutorial on cloud portal or binder.",
+	"toolType": ["Workbench","Notebook"],
+	"editPermission": {
+	"type": "private",
+	"authors": []
+	},
+	"language": [],
+	"link": [],
+	"biotoolsID": "Tutorial_MD_Setup_portal_binder",
+	"additionDate": "2020-03-18T17:37:59Z",
+	"name": "Tutorial: MD Setup - portal",
+	"license": null,
+	"documentation": [],
+	"maturity": null,
+	"confidence_flag": null,
+	"operatingSystem": []
+	},{
 		"collectionID": [
 			"BioExcel"
 		],
@@ -69,7 +163,8 @@
 		"operatingSystem": [
 			"Linux"
 		]
-	},{
+	},
+		{
 		"collectionID": [
 			"BioExcel"
 		],
@@ -137,7 +232,8 @@
 		"operatingSystem": [
 			"Linux"
 		]
-	}, {
+	},
+		{
 		"collectionID": [
 			"BioExcel"
 		],
