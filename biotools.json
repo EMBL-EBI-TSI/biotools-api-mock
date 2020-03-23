@@ -60,10 +60,16 @@
 	"relation": [],
 	"download": [
 	{
-	  "url": "https://mybinder.org",
-	  "note": "BioExcel_ECP_Application;name:Jupyter Server Instance;teamName:BioExcel Embassy;config:Jupyter biobb_wf_md_setup;binder:true",
+	  "url": "https://github.com/bioexcel/biobb_wf_md_setup",
+	  "note": "BioExcel_ECP_Application;name:Jupyter Server Instance;teamName:BioExcel Embassy;config:Jupyter biobb_wf_md_setup",
 	  "version": null,
 	  "type": "VM image"
+	},
+	{
+		"url": "https://mybinder.org",
+		"note": "BioExcel_Binder_Application;name:;teamName:;config:",
+		"version": null,
+		"type": "VM image"
 	}
 	],
 	"validated": 0,
