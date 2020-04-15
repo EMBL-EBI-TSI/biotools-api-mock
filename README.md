@@ -8,3 +8,9 @@ pip3 install Flask
 
 ## Make executable & Run
 biotools.py
+
+## Publish changes to mock API server
+1. Push the changes to git repo
+2. Run ansible playbook for frontend servers
+   ansible-playbook frontends.yml -i tsi-inventory
+

@@ -49,7 +49,7 @@
       "confidence_flag": null,
       "operatingSystem": []
     },
-		{
+	{
 	"collectionID": [
 	"BioExcel"
 	],
@@ -95,7 +95,7 @@
 	"link": [],
 	"biotoolsID": "Tutorial_MD_Setup_portal_binder",
 	"additionDate": "2020-03-18T17:37:59Z",
-	"name": "Tutorial: MD Setup - portal",
+	"name": "Tutorial: MD Setup",
 	"license": null,
 	"documentation": [],
 	"maturity": null,
@@ -249,8 +249,8 @@
 		"cost": null,
 		"relation": [],
 		"download": [{
-			"url": "https://github.com/EMBL-EBI-TSI/cpa-redis",
-			"note": "BioExcel_ECP_Application;name:redis;teamName:team-football;config:ostack config",
+			"url": "https://github.com/EMBL-EBI-TSI/cpa-bioexcel-cwl",
+			"note": "BioExcel_ECP_Application;name:CWL VM environment;teamName:BioExcel Embassy DEV;config:CWL biobb_wf_mutations",
 			"version": null,
 			"type": "VM image"
 		}],
@@ -258,9 +258,9 @@
 		"publication": [{
 			"doi": "",
 			"version": null,
-			"pmid": "123444",
+			"pmid": "0",
 			"type": "Primary",
-			"pmcid": "23333",
+			"pmcid": "0",
 			"metadata": null
 		}],
 		"homepage_status": 0,
@@ -282,11 +282,11 @@
 			"1"
 		],
 		"elixir_badge": 0,
-		"homepage": "https://github.com/EMBL-EBI-TSI/cpa-redis",
+		"homepage": "https://github.com/EMBL-EBI-TSI/cpa-bioexcel-cwl",
 		"function": [],
-		"lastUpdate": "2019-08-21T17:02:14Z",
+		"lastUpdate": "2019-09-18T14:45:14Z",
 		"otherID": [],
-		"description": "Reddis server in the Cloud.",
+		"description": "CWL VM environment for Biobb workflow mutations",
 		"toolType": [
 			"Workbench"
 		],
@@ -298,9 +298,9 @@
 			"PHP"
 		],
 		"link": [],
-		"biotoolsID": "ebi:redis",
-		"additionDate": "2019-08-21T09:00:15Z",
-		"name": "redis",
+		"biotoolsID": "ebi:biobb_wf_mutations",
+		"additionDate": "2019-09-18T14:45:14Z",
+		"name": "Biobb workflow mutations",
 		"license": null,
 		"documentation": [],
 		"maturity": "Mature",
