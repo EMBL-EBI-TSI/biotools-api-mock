@@ -61,7 +61,7 @@
 	"download": [
 	{
 	  "url": "https://github.com/bioexcel/biobb_wf_md_setup",
-	  "note": "BioExcel_ECP_Application;name:Jupyter Server Instance;teamName:BioExcel Embassy;config:Jupyter biobb_wf_md_setup",
+	  "note": "BioExcel_ECP_Application;name:Jupyter Server Instance;teamName:BioExcel Embassy DEV;config:Jupyter md_setup",
 	  "version": null,
 	  "type": "VM image"
 	},
