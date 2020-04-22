@@ -12,16 +12,16 @@
       "topic": [
         
       ],
-      "owner": "felixamaladoss",
-      "cost": "Free of charge (with restrictions)",
+      "owner": "aniewielska",
+      "cost": null,
       "relation": [
         
       ],
       "download": [
         {
           "url": "https://github.com/EMBL-EBI-TSI/cpa-bioexcel-cwl",
-          "note": "BioExcel_ECP_Application;name:CWL VM environment;teamName:BioExcel Embassy;config:CWL biobb_wf_mutations",
-          "version": "1.0",
+          "note": "BioExcel_ECP_Application;name:CWL VM environment;teamName:CWL Training;config:BioExcel CWL Training",
+          "version": null,
           "type": "VM image"
         }
       ],
@@ -31,20 +31,9 @@
       ],
       "homepage_status": 0,
       "credit": [
-        {
-          "typeRole": [
-            "Developer"
-          ],
-          "name": "Felix Xavier Amaladoss",
-          "url": null,
-          "gridid": null,
-          "note": null,
-          "orcidid": null,
-          "typeEntity": null,
-          "email": "famaladoss@ebi.ac.uk"
-        }
+        
       ],
-      "biotoolsCURIE": "biotools:CWL_VM_environment",
+      "biotoolsCURIE": "biotools:cwl_training",
       "elixirPlatform": [
         
       ],
@@ -52,26 +41,25 @@
         
       ],
       "version": [
-        "1.0"
+        
       ],
       "elixir_badge": 0,
       "homepage": "https://github.com/EMBL-EBI-TSI/cpa-bioexcel-cwl",
       "function": [
         
       ],
-      "lastUpdate": "2019-11-18T15:07:43Z",
+      "lastUpdate": "2020-04-20T12:30:03.600269Z",
       "otherID": [
         
       ],
-      "description": "CWL VM environment is a repository which can be deployed on cloud to execute Biobb Mutations Workflow.",
+      "description": "Automatically built VM used for a remote CWL training",
       "toolType": [
-        "Workbench"
+        
       ],
       "editPermission": {
-        "type": "group",
+        "type": "private",
         "authors": [
-          "adam.hospital@irbbarcelona.org",
-          "felixamaladoss@ebi.ac.uk"
+          
         ]
       },
       "language": [
@@ -80,9 +68,9 @@
       "link": [
         
       ],
-      "biotoolsID": "CWL_VM_environment:biobb_wf_mutations",
-      "additionDate": "2020-04-21T13:13:42Z",
-      "name": "Biobb Mutations Workflow",
+      "biotoolsID": "cwl_training",
+      "additionDate": "2020-04-20T12:30:03.598301",
+      "name": "CWL Training",
       "license": null,
       "documentation": [
         
@@ -90,7 +78,7 @@
       "maturity": null,
       "confidence_flag": null,
       "operatingSystem": [
-        "Linux"
+        
       ]
     },{
 	  "collectionID": [
