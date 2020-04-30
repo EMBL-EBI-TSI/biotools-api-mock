@@ -1,7 +1,8 @@
 {
 	"count": 32,
 	"previous": null,
-	"list": [{
+	"list": [
+	{
       "collectionID": [
         "BioExcel"
       ],
@@ -91,7 +92,7 @@
       "relation": [],
       "download": [
         {
-          "url": "https://gke.mybinder.org/v2/gh/bioexcel/biobb_wf_md_setup/master?filepath=biobb_wf_md_setup%2Fnotebooks%2Fbiobb_MDsetup_tutorial.ipynb",
+          "url": "https://binder.tsi.ebi.ac.uk/v2/gh/bioexcel/biobb_wf_md_setup/master?filepath=biobb_wf_md_setup%2Fnotebooks%2Fbiobb_MDsetup_tutorial.ipynb",
           "note": "BioExcel_Binder_Application;name:;teamName:;config:",
           "version": null,
           "type": "VM image"
@@ -144,7 +145,7 @@
 	  "type": "VM image"
 	},
 	{
-		"url": "https://mybinder.org",
+		"url": "https://binder.tsi.ebi.ac.uk/v2/gh/bioexcel/biobb_wf_md_setup/master?filepath=biobb_wf_md_setup%2Fnotebooks%2Fbiobb_MDsetup_tutorial.ipynb",
 		"note": "BioExcel_Binder_Application;name:;teamName:;config:",
 		"version": null,
 		"type": "VM image"
