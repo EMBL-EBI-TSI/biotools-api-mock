@@ -1,3 +1,6 @@
+> **Note**
+> The EBI Cloud Portal has been retired and its code base is no longer updated. This includes all tooling for the VM-related features of the BioExcel Portal.
+
 # biotools API mock for integration testing of Bioexcel Portal
 
 ## Requirement 
